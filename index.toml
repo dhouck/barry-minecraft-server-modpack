@@ -1,9 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TODO.md"
+hash = "c87527f28242c088d5426e015b2ec1274e0bbf0faffcf85c94d59a270cb7b48f"
+
+[[files]]
+file = "config/nether_chest.json"
+hash = "c157dc6631817bdaa4bdfc42381af265d9f3dbfa8a012cc2da84f15a7b4af5e0"
+
+[[files]]
 file = "config/openloader/data/create-structures.pw.toml"
 hash = "d275e67adb29ebd88a0f77f4a809e64b4f4f37f093e33515465786f71425df55"
 metafile = true
+
+[[files]]
+file = "config/travelersbackpack.json5"
+hash = "b7333087ec5ecc9d368ff69e662f29beaa4ccad37730e2492361b4aaf6d0f029"
 
 [[files]]
 file = "mods/ambiance/ambientsounds.pw.toml"
