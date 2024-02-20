@@ -1,0 +1,15 @@
+# Disabled because we are not currently using DatapackPortals
+
+name = "CreateDPCompat"
+filename = "createdpcompat-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1k95061B/versions/gosofPYB/createdpcompat-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "5252bfc7713dc78d1dcf49bb88524946b27cb589"
+
+[update]
+[update.modrinth]
+mod-id = "1k95061B"
+version = "gosofPYB"

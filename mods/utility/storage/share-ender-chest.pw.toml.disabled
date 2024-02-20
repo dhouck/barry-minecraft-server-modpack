@@ -1,0 +1,13 @@
+name = "ShareEnderChest"
+filename = "shareenderchest-1.6.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3D8J5fZB/versions/DdBx3GhA/shareenderchest-1.6.0.jar"
+hash-format = "sha1"
+hash = "b1b50f0af573bc9748a8ed0fcda21480e5126863"
+
+[update]
+[update.modrinth]
+mod-id = "3D8J5fZB"
+version = "DdBx3GhA"

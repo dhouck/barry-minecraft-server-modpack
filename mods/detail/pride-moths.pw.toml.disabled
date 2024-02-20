@@ -1,0 +1,15 @@
+# Might not play nicely with Quilt
+
+name = "Happy Pride Moth!"
+filename = "pride-moths-1.7+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4CDikCJ/versions/XRI4vaNj/pride-moths-1.7%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "e5085c711699dd4ea3039b479fa5706c3916f4e6"
+
+[update]
+[update.modrinth]
+mod-id = "z4CDikCJ"
+version = "XRI4vaNj"

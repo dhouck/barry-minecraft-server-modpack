@@ -1,0 +1,13 @@
+name = "Litematica Tool (Forge and Fabric)"
+filename = "litematicatool-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f88c5afbb24630274dbf0a5cd358231f306fb91a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4611110
+project-id = 494413
