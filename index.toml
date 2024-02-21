@@ -358,6 +358,11 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
+file = "mods/libs/yacl.pw.toml"
+hash = "f2855ca462a5ef36206a941612989aed049b1cd49559f0f2d4d247505566e546"
+metafile = true
+
+[[files]]
 file = "mods/performance/dynamic-fps.pw.toml"
 hash = "6ea1eddd8ff08bd26c296bf6c1e3906c0e2ec5ad0b334a0adca4f1f2a1bb03cc"
 metafile = true
@@ -563,8 +568,18 @@ hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
 metafile = true
 
 [[files]]
+file = "mods/utility/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/ct-overhaul-village.pw.toml"
 hash = "5cd02e1361c1b2dccdf780f0bb70fea5a0f6b8955839d964c9ff34d311f125a3"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/dcwa.pw.toml"
+hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
 
 [[files]]
