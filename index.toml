@@ -308,6 +308,16 @@ hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
+file = "mods/libs/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/libs/iceberg.pw.toml"
+hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
 file = "mods/libs/lithostitched.pw.toml"
 hash = "85167839c93b4edf3cf0e24d31f07c3e3854020d3608fc46efd7e4987ea2aa66"
 metafile = true
@@ -408,11 +418,6 @@ hash = "d04bb59d1e8a571d3f3b224cdca04a0f4070533d4fe279f647fed48ce1b8a809"
 metafile = true
 
 [[files]]
-file = "mods/utility/appleskin.pw.toml"
-hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
-metafile = true
-
-[[files]]
 file = "mods/utility/betterf3.pw.toml"
 hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
 metafile = true
@@ -425,6 +430,71 @@ metafile = true
 [[files]]
 file = "mods/utility/chalk.pw.toml"
 hash = "bd2cab029b39f8a64e4f4b0d0b3c5b9bb6b6482e174af890be4f278cd502edc8"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/better-mount-hud.pw.toml"
+hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/block-event-separator.pw.toml"
+hash = "aec3292bc8d9bbea51c742b816943e0b0ec9bf8f5e640adcc47c62b728bfe74c"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/boat-item-view.pw.toml"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/chat-heads.pw.toml"
+hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/cleardespawn.pw.toml"
+hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/detail-armor-bar.pw.toml"
+hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/g4mespeed.pw.toml"
+hash = "8f792c5a66a084a05f71a21f3a57ba9015ce97b86183afadb2fe15d562af999f"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/item-highlighter.pw.toml"
+hash = "d2fb9aba12d1c0bafcde37bc71ca679d10630386b01f235ea7ed651093c2905f"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/raised.pw.toml"
+hash = "ae69c821036a2935d191dae5aa88d465330e3ad3429200878f333bc814ac592a"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/smooth-swapping.pw.toml"
+hash = "9f38461b4e2c233243c2149dd495f9992672cba45088557a29f93dc3b8cd12f4"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
@@ -455,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/utility/emi/extra-mod-integrations.pw.toml"
 hash = "2b917cb7ce42faa92e029b4468e6dd580074e49630580b9b3b8014e14c914b07"
+metafile = true
+
+[[files]]
+file = "mods/utility/emoji-type.pw.toml"
+hash = "e0024a1ca07a6a4c44eb815049e9a69b89bac1626f5b8ad644421192a158de4a"
 metafile = true
 
 [[files]]
@@ -538,6 +613,11 @@ hash = "fc1cd4bb3bdd9556fca0ec372dde144e70c9121f7b11237825d4b97ca9dad2c0"
 metafile = true
 
 [[files]]
+file = "mods/utility/replaymod.pw.toml"
+hash = "27c3bb85e5e87ff033e97edd8212757a9c4af7e74b8aa841e09f5cc4ea065e3e"
+metafile = true
+
+[[files]]
 file = "mods/utility/storage/extended-drawers.pw.toml"
 hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
@@ -565,11 +645,6 @@ metafile = true
 [[files]]
 file = "mods/utility/travelersbackpack.pw.toml"
 hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
-metafile = true
-
-[[files]]
-file = "mods/utility/zoomify.pw.toml"
-hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]

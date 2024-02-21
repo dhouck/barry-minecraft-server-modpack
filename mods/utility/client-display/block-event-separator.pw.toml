@@ -1,0 +1,18 @@
+name = "Block Event Separator"
+filename = "block-event-separator-mc1.20-1.3.0.jar"
+side = "both"
+
+[option]
+optional = true
+default = false
+description = "Display block events delayed; can help debug but also shows things out of order"
+
+[download]
+url = "https://cdn.modrinth.com/data/GNj1KeF1/versions/knUQYaSr/block-event-separator-mc1.20-1.3.0.jar"
+hash-format = "sha1"
+hash = "7822450141541fd688b1cdb5f66986645bad9549"
+
+[update]
+[update.modrinth]
+mod-id = "GNj1KeF1"
+version = "knUQYaSr"
