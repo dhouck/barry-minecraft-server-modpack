@@ -1,11 +1,11 @@
 name = "Barry Server Pack"
-version = "0.2.0"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5a38512023611411fdadd86964187770ce1469dd61f49963784209fde5cf6b53"
+hash = "566cb5a55b98a1ad564e0d15e4cb35013b4b67aac074a27023865a6e3ab6e17e"
 
 [versions]
 fabric = "0.15.7"

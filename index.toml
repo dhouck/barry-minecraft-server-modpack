@@ -9,6 +9,14 @@ file = "config/nether_chest.json"
 hash = "c157dc6631817bdaa4bdfc42381af265d9f3dbfa8a012cc2da84f15a7b4af5e0"
 
 [[files]]
+file = "config/openloader/data/bundles/pack.mcmeta"
+hash = "c9858fea87a744b705c8dde3d296b62d430f3c1f4b57f763ae4b19891a432139"
+
+[[files]]
+file = "config/openloader/data/bundles/pack.png"
+hash = "97030446725d3ecf9961c3da0d3056a7ffa0fc5796ef6aabc73ba2a1d12793ad"
+
+[[files]]
 file = "config/openloader/data/create-structures.pw.toml"
 hash = "d275e67adb29ebd88a0f77f4a809e64b4f4f37f093e33515465786f71425df55"
 metafile = true
@@ -43,6 +51,11 @@ hash = "98b41adf822f00af6c0caef0f47efc112003bcc1784fd58b7a25c42735f32a59"
 metafile = true
 
 [[files]]
+file = "mods/compat/ctov-beautify-compat.pw.toml"
+hash = "a1c94db18b2c206b3573e5614109ce23409ce2e667d6671dcaf82bef54124eed"
+metafile = true
+
+[[files]]
 file = "mods/compat/ctov-chefs-delight-compat.pw.toml"
 hash = "82b3bb88bd350fe7537af8dd3900f37d41301d640dc2e6860dd6d36cf86dcd9b"
 metafile = true
@@ -55,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/compat/ctov-farmers-delight-compat.pw.toml"
 hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
+metafile = true
+
+[[files]]
+file = "mods/compat/ctov-more-villagers-compat.pw.toml"
+hash = "5c779025c8832b8ecc55b2cd5da12c69d89ce2403e4ca07a4c6fb6807705cb77"
 metafile = true
 
 [[files]]
@@ -173,6 +191,11 @@ hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
 
 [[files]]
+file = "mods/detail/beautify-refabricated.pw.toml"
+hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
+metafile = true
+
+[[files]]
 file = "mods/detail/bedspreads.pw.toml"
 hash = "af0c7ee46afc4a5dcce1d6d01ef668d18d1dbe5560f5d03e2608f55cc0163b33"
 metafile = true
@@ -245,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/dimensions/ad-astra/star-wars-planets-ad-astra.pw.toml"
 hash = "9d7efeef491399383407224f7838d1c88471a0b49c18853b08d02e3d427f43c8"
-metafile = true
-
-[[files]]
-file = "mods/dimensions/dimensionaldoors.pw.toml"
-hash = "c0c6e75c4632b7b451a2bf5cb99f9654bf3fc3bb6a2ad9df660f63321a9d9928"
 metafile = true
 
 [[files]]
@@ -563,11 +581,6 @@ hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
 
 [[files]]
-file = "mods/utility/journeymap/journeymap-integration.pw.toml"
-hash = "e5baa5b81dbd3dda0e75a524c10302d278fceee4be251cdbee2a48bf3eae1f94"
-metafile = true
-
-[[files]]
 file = "mods/utility/journeymap/journeymap.pw.toml"
 hash = "f722ea0372d2459a35504422fb4f42945ca7fbcbdaebf0a1feb9d5d276144901"
 metafile = true
@@ -638,28 +651,43 @@ hash = "42545bcb44f013bba4f667482e9646974ff41593b559ab4260ac04f805f3e684"
 metafile = true
 
 [[files]]
-file = "mods/utility/travel/fwaystones.pw.toml"
-hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
-metafile = true
-
-[[files]]
-file = "mods/utility/travel/tempad.pw.toml"
-hash = "0a3a680ed7c131426ffe490a94bb7d35e456fd586c83a8fb321b0a77e1eb6eb2"
-metafile = true
-
-[[files]]
 file = "mods/utility/travelersbackpack.pw.toml"
 hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/ct-overhaul-village.pw.toml"
+file = "mods/village/ct-overhaul-village.pw.toml"
 hash = "ffbc244ff8dc311ffb6f0c83ff86edceb814ebead8fce9e32e4b061db38af14b"
+metafile = true
+
+[[files]]
+file = "mods/village/more-villagers-fabric.pw.toml"
+hash = "8d0412794abda3c9eaf4c673d96a45fe6a635142b1e853555d6574406af02b23"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/abridged.pw.toml"
+hash = "6ba572b018ab4589e878a38289522ee44c1ddeb87b9c29f1529682d35eda6f1b"
 metafile = true
 
 [[files]]
 file = "mods/worldgen/dcwa.pw.toml"
 hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/revitalized-outposts.pw.toml"
+hash = "aa50b55b6cacc5edb7b80fda874539bbdc64d7409cc75ac06c82a2cd0b7dbef7"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/tectonic.pw.toml"
+hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/terralith.pw.toml"
+hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
 metafile = true
 
 [[files]]
