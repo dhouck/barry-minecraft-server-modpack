@@ -391,6 +391,11 @@ hash = "f2855ca462a5ef36206a941612989aed049b1cd49559f0f2d4d247505566e546"
 metafile = true
 
 [[files]]
+file = "mods/libs/yungs-api.pw.toml"
+hash = "9aaa47ddb019a988c0f9b43560a488d29bda0af70f310762aac36c24959e1bab"
+metafile = true
+
+[[files]]
 file = "mods/performance/dynamic-fps.pw.toml"
 hash = "6ea1eddd8ff08bd26c296bf6c1e3906c0e2ec5ad0b334a0adca4f1f2a1bb03cc"
 metafile = true
@@ -688,6 +693,56 @@ metafile = true
 [[files]]
 file = "mods/worldgen/terralith.pw.toml"
 hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-desert-temples.pw.toml"
+hash = "911d7f5d030bc0990e87e2a3cd113ef059c8229849f131f5957ae275634a9247"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-dungeons.pw.toml"
+hash = "28e9e1ae5ced7de0e0338f9d5ebc6a0fc4f717ab45721e68f11a22d0b4c3ae63"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-end-island.pw.toml"
+hash = "686fec4c95b11d0e352b697c8d5923e0720ff2a4937e07b43ff2df9a28604373"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-jungle-temples.pw.toml"
+hash = "7ed6bab812fe2556736e8926992106974588843938d57a4eecf426158cf7ca29"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-mineshafts.pw.toml"
+hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-nether-fortresses.pw.toml"
+hash = "713fc0d5fbcc847c3f77b94add82bdb2d0e20f727c018daad1ad2dbfdf337a10"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-ocean-monuments.pw.toml"
+hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-strongholds.pw.toml"
+hash = "6778fcadacf18b05b5acfae80e9249995b27e8531239ddad05ad3bb7e68707c1"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-better-witch-huts.pw.toml"
+hash = "3d65c189ea7cc2d893a59cfe2aec5fbd9d82126af34c1582c3b04be43f604fde"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yung/yungs-extras.pw.toml"
+hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
 
 [[files]]
