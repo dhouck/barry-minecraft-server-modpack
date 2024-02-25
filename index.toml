@@ -651,6 +651,11 @@ hash = "fc1cd4bb3bdd9556fca0ec372dde144e70c9121f7b11237825d4b97ca9dad2c0"
 metafile = true
 
 [[files]]
+file = "mods/utility/replanter.pw.toml"
+hash = "dcc6a9918bba09c4d75d0c87883c7bde009fd553bea0d7009048b715ed01b1be"
+metafile = true
+
+[[files]]
 file = "mods/utility/replaymod.pw.toml"
 hash = "27c3bb85e5e87ff033e97edd8212757a9c4af7e74b8aa841e09f5cc4ea065e3e"
 metafile = true
