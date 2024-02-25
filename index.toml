@@ -211,6 +211,11 @@ hash = "030b5adce4dd6f31635992d8eebe27b2bae86b14fba1469ad19e1cae473c59df"
 metafile = true
 
 [[files]]
+file = "mods/detail/client/custom-player-models.pw.toml"
+hash = "1583566257af34f59e45cca329f340e96dc6a1122ff2e8461ef75f96c8f696e8"
+metafile = true
+
+[[files]]
 file = "mods/detail/macaw/macaws-bridges.pw.toml"
 hash = "17abe74fad17a8ad23797548cd53f3ef1b1abbbf9133f03c1bac359f3939ff27"
 metafile = true
