@@ -261,6 +261,16 @@ hash = "4c3dc1c93ec5be222f504f66c251fbb17a12f1bba04d59b1b34d959ee9d04e30"
 metafile = true
 
 [[files]]
+file = "mods/detail/mortar.pw.toml"
+hash = "f8b2d258bb83f5fae14fab4f9df884b5298b11c922bd69fe953dbf6dd581b76b"
+metafile = true
+
+[[files]]
+file = "mods/detail/trimmable-tools.pw.toml"
+hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
+metafile = true
+
+[[files]]
 file = "mods/dimensions/ad-astra/ad-astra.pw.toml"
 hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true

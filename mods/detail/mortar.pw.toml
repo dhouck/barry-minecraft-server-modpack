@@ -1,0 +1,13 @@
+name = "Mortar"
+filename = "mortar-mc1.20-v1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/26zEKxNr/versions/t4VKRZ4L/mortar-mc1.20-v1.0.2.jar"
+hash-format = "sha1"
+hash = "6f20324e913c73f37b65833ec23e027911f84c9b"
+
+[update]
+[update.modrinth]
+mod-id = "26zEKxNr"
+version = "t4VKRZ4L"
