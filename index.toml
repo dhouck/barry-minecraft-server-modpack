@@ -701,6 +701,11 @@ hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/lootr.pw.toml"
+hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/revitalized-outposts.pw.toml"
 hash = "aa50b55b6cacc5edb7b80fda874539bbdc64d7409cc75ac06c82a2cd0b7dbef7"
 metafile = true
