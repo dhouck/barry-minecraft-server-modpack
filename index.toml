@@ -22,6 +22,14 @@ hash = "d275e67adb29ebd88a0f77f4a809e64b4f4f37f093e33515465786f71425df55"
 metafile = true
 
 [[files]]
+file = "config/openloader/data/mod-compat/data/travelersbackpack/tags/items/acceptable_tools.json"
+hash = "0d451c8b0136c86422607b21adfdc168769a798c2f1b63c7392d7921c010b1c6"
+
+[[files]]
+file = "config/openloader/data/mod-compat/pack.mcmeta"
+hash = "007790a0d824bc2155883064588025c48111cdd47a16af5ea9366f47223ec8cf"
+
+[[files]]
 file = "config/travelersbackpack.json5"
 hash = "b7333087ec5ecc9d368ff69e662f29beaa4ccad37730e2492361b4aaf6d0f029"
 
