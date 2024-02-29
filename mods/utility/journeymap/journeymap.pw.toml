@@ -2,6 +2,11 @@ name = "JourneyMap"
 filename = "journeymap-1.20.1-5.9.18-fabric.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Default minimap and world map mod"
+
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/jEeKb7lx/journeymap-1.20.1-5.9.18-fabric.jar"
 hash-format = "sha1"

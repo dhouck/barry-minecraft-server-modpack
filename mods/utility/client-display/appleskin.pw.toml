@@ -2,6 +2,11 @@ name = "AppleSkin"
 filename = "appleskin-fabric-mc1.20.1-2.5.1.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Shows more info about food and hunger"
+
 [download]
 url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar"
 hash-format = "sha1"

@@ -2,6 +2,11 @@ name = "Jade Addons (Fabric)"
 filename = "JadeAddons-1.20.1-fabric-5.2.3.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "More information for Jade, such as working with Create"
+
 [download]
 url = "https://cdn.modrinth.com/data/fThnVRli/versions/oSyOLHYj/JadeAddons-1.20.1-fabric-5.2.3.jar"
 hash-format = "sha1"

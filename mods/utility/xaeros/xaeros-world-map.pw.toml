@@ -2,6 +2,11 @@ name = "Xaero's World Map"
 filename = "XaerosWorldMap_1.37.8_Fabric_1.20.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+description = "Alternate world map"
+
 [download]
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/RR2qcEow/XaerosWorldMap_1.37.8_Fabric_1.20.jar"
 hash-format = "sha1"

@@ -2,6 +2,11 @@ name = "EMI Addon: Extra Mod Integrations"
 filename = "extra-mod-integrations-0.4.2+1.20.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Show information from other mods in EMI"
+
 [download]
 url = "https://cdn.modrinth.com/data/bpRHnWUb/versions/InD7xPaR/extra-mod-integrations-0.4.2%2B1.20.1.jar"
 hash-format = "sha1"

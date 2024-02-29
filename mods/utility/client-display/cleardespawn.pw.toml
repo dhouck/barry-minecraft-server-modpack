@@ -2,6 +2,11 @@ name = "ClearDespawn"
 filename = "ClearDespawn-fabric-1.20.2-1.1.15.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Items on ground flash before despawning"
+
 [download]
 url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/jpRIGRtD/ClearDespawn-fabric-1.20.2-1.1.15.jar"
 hash-format = "sha1"

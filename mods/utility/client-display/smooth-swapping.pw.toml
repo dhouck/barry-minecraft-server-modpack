@@ -2,6 +2,11 @@ name = "Smooth Swapping"
 filename = "smoothswapping-0.9.3.1-1.20.2-fabric.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "See items move between inventories with eg. shift-click"
+
 [download]
 url = "https://cdn.modrinth.com/data/ydZic5r4/versions/ZOPxSIii/smoothswapping-0.9.3.1-1.20.2-fabric.jar"
 hash-format = "sha1"

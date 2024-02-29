@@ -2,6 +2,11 @@ name = "BetterF3"
 filename = "BetterF3-7.0.2-Fabric-1.20.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Shows more readable information in F3 screen"
+
 [download]
 url = "https://cdn.modrinth.com/data/8shC1gFX/versions/7WkFnw9F/BetterF3-7.0.2-Fabric-1.20.1.jar"
 hash-format = "sha1"

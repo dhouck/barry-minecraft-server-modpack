@@ -2,6 +2,11 @@ name = "Better Ping Display [Fabric]"
 filename = "BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Display actual ping time"
+
 [download]
 url = "https://cdn.modrinth.com/data/MS1ZMyR7/versions/FbxcDBxy/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
 hash-format = "sha1"

@@ -2,6 +2,11 @@ name = "Litematica"
 filename = "litematica-fabric-1.20.1-0.15.3.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Show and work with schematics of planned builds"
+
 [download]
 hash-format = "sha1"
 hash = "427b04faee05fab436c52c3618e8e391a010b648"
