@@ -593,11 +593,6 @@ hash = "5e5b41dc332f3090bb716738e51d95bdf7f6869651d2b125f1178eb513508d1f"
 metafile = true
 
 [[files]]
-file = "mods/utility/explorers-compass.pw.toml"
-hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
-metafile = true
-
-[[files]]
 file = "mods/utility/friendly-fire.pw.toml"
 hash = "12337afa8fd12dde33466b18e57dba567bcaa66323210b3c67fc21d69e62cad7"
 metafile = true
