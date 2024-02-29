@@ -34,6 +34,10 @@ file = "config/travelersbackpack.json5"
 hash = "b7333087ec5ecc9d368ff69e662f29beaa4ccad37730e2492361b4aaf6d0f029"
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "1e445bd2ff08964672aefb9b7372029df37c79076c4a808b4155f8a589ae8da9"
+
+[[files]]
 file = "mods/ambiance/ambientsounds.pw.toml"
 hash = "c2fc745e9dc783ce306612124ae1ff0e66d3ddf4113172ccfc27c571c09b0b13"
 metafile = true
@@ -686,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/utility/travelersbackpack.pw.toml"
 hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
+metafile = true
+
+[[files]]
+file = "mods/utility/universal-graves.pw.toml"
+hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
 
 [[files]]
