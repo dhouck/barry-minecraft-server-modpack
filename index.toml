@@ -58,10 +58,6 @@ file = "config/universal-graves/config.json"
 hash = "1e445bd2ff08964672aefb9b7372029df37c79076c4a808b4155f8a589ae8da9"
 
 [[files]]
-file = "if.patch"
-hash = "931d3fc5b231f85274b926b4a0fd881b1d460525312701a1b8694f25b42ea142"
-
-[[files]]
 file = "mods/ambiance/ambientsounds.pw.toml"
 hash = "f038683fdf6d2128a9e3b0c71d1f84d3e1cd3db8333df1398b27908c66ddddf7"
 metafile = true
@@ -352,6 +348,16 @@ hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
 metafile = true
 
 [[files]]
+file = "mods/food/diet.pw.toml"
+hash = "fbbe9fc78bcceaf9df16712eb582f230ed94579256a68d15ee9b27726cb2341b"
+metafile = true
+
+[[files]]
+file = "mods/food/spice-of-fabric.pw.toml"
+hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+metafile = true
+
+[[files]]
 file = "mods/libs/architectury-api.pw.toml"
 hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
 metafile = true
@@ -504,11 +510,6 @@ metafile = true
 [[files]]
 file = "mods/performance/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
-metafile = true
-
-[[files]]
-file = "mods/server-config/diet.pw.toml"
-hash = "fbbe9fc78bcceaf9df16712eb582f230ed94579256a68d15ee9b27726cb2341b"
 metafile = true
 
 [[files]]
