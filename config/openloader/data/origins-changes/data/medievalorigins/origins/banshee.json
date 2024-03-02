@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"medievalorigins:banshee/spectral",
+                "medievalorigins:banshee/hexed",
+                "medievalorigins:banshee/sonic_shriek",
+                "medievalorigins:banshee/flesheater",
+                "medievalorigins:banshee/iron_aversion",
+                "medievalorigins:banshee/immaterial"
+	],
+	"icon": "minecraft:barrier",
+	"impact": 1,
+    "order": 1,
+    "unchoosable": true,
+    "loading_priority": 3
+}

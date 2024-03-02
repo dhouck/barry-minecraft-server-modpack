@@ -30,6 +30,22 @@ file = "config/openloader/data/mod-compat/pack.mcmeta"
 hash = "007790a0d824bc2155883064588025c48111cdd47a16af5ea9366f47223ec8cf"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/banshee.json"
+hash = "9a0f83bb59e5224f2636244eff0d1f13da2ffd1eead2a98be7f690771d10108a"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/origins_minus/origins/dryad.json"
+hash = "636948cec2598cc23e08c321b3d2065da099cd678c790733e02c6e846cb42ce8"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/origins_minus/origins/sanguine.json"
+hash = "64ba0fc8022af8b8be7a490370570448714c5dec3607a3951ae1758e7fcc1d81"
+
+[[files]]
+file = "config/openloader/data/origins-changes/pack.mcmeta"
+hash = "a5f4fca2a1eb8076def223bf6beb5bf3ee5c1b7b8f5e9073fbda4d7e83c9f816"
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "459cd6e5d53eff15f6504d28dba55e2f83b93d56783ccb0236b66fd5480f40e4"
 
@@ -40,6 +56,10 @@ hash = "b7333087ec5ecc9d368ff69e662f29beaa4ccad37730e2492361b4aaf6d0f029"
 [[files]]
 file = "config/universal-graves/config.json"
 hash = "1e445bd2ff08964672aefb9b7372029df37c79076c4a808b4155f8a589ae8da9"
+
+[[files]]
+file = "if.patch"
+hash = "931d3fc5b231f85274b926b4a0fd881b1d460525312701a1b8694f25b42ea142"
 
 [[files]]
 file = "mods/ambiance/ambientsounds.pw.toml"
@@ -202,6 +222,26 @@ hash = "3b09bb825c6293c1c1fb2addd2c88e03af6cb4f0cc72040cd8696a51a3ef8f5f"
 metafile = true
 
 [[files]]
+file = "mods/content/origins/altorigingui.pw.toml"
+hash = "0b22c71c2e7f52bc2f16c180a5193e52b2cad25979758d6fd24c23a970512689"
+metafile = true
+
+[[files]]
+file = "mods/content/origins/extra-origins.pw.toml"
+hash = "67967605a5a1603de48fd6613469fb86f6beb30a2702b2aca64210c57d57573a"
+metafile = true
+
+[[files]]
+file = "mods/content/origins/medieval-origins-revival.pw.toml"
+hash = "f0e751ba2f800c7251b66414a42f5a98b2037461da1049b67239003b437f29ad"
+metafile = true
+
+[[files]]
+file = "mods/content/origins/moborigins.pw.toml"
+hash = "8686717834b2c99c73a0224befd70389e2a0183cbbc61850c901aa5aad19d96c"
+metafile = true
+
+[[files]]
 file = "mods/content/origins/origins-classes.pw.toml"
 hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
 metafile = true
@@ -212,13 +252,13 @@ hash = "768bd8a91ce0a8809059e0aa110cd0b45a8f4fafbfb0f933d14ed80c2cd703c8"
 metafile = true
 
 [[files]]
-file = "mods/content/origins/origins-plus-plus.pw.toml"
-hash = "569840d3fe74fe9d4b093fb456b8a9f4d167eabee8b155b1e08bbce71ecb6285"
+file = "mods/content/origins/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
 
 [[files]]
-file = "mods/content/origins/origins.pw.toml"
-hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+file = "mods/content/origins/toomanyorigins.pw.toml"
+hash = "0e1804cfe71dfc5c6524da1515ecde51755115261362d2b21fb5ad199cc56c40"
 metafile = true
 
 [[files]]

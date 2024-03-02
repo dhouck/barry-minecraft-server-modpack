@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins_minus:blood",
+		"origins_minus:no_hunger",
+		"origins_minus:frenzy",
+		"origins_minus:nightstalker"
+	],
+	"icon": {
+		"item": "potion",
+		"tag": "{CustomPotionColor:4522754}"
+	},
+	"impact": 2,
+    "unchoosable": true,
+    "loading_priority": 3
+}

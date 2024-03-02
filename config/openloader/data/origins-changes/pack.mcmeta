@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Edit list of allowed origins",
+        "pack_format": 15
+    }
+}
