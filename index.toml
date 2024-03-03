@@ -283,6 +283,11 @@ hash = "1583566257af34f59e45cca329f340e96dc6a1122ff2e8461ef75f96c8f696e8"
 metafile = true
 
 [[files]]
+file = "mods/detail/infinitybuttons.pw.toml"
+hash = "3d9b2eaf60c3abc7e39022e3a6faacc582cd87fc5d4fd5218292e672991b6ffa"
+metafile = true
+
+[[files]]
 file = "mods/detail/macaw/macaws-bridges.pw.toml"
 hash = "17abe74fad17a8ad23797548cd53f3ef1b1abbbf9133f03c1bac359f3939ff27"
 metafile = true
@@ -395,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/libs/creativecore.pw.toml"
 hash = "3fa7edc6717f0509c9fb82eb29adaf08ffbba6f733becb0a4085d71e1e43eb01"
+metafile = true
+
+[[files]]
+file = "mods/libs/every-compat.pw.toml"
+hash = "8f5efdd43bb0a57bc70d3710bb42c85e49a6688e1e829cd7d4f71fc220eca90b"
 metafile = true
 
 [[files]]
@@ -535,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/utility/chalk.pw.toml"
 hash = "bd2cab029b39f8a64e4f4b0d0b3c5b9bb6b6482e174af890be4f278cd502edc8"
+metafile = true
+
+[[files]]
+file = "mods/utility/cleancut.pw.toml"
+hash = "94384a5665b900d965b0f16a73aeba6007728be1b4f42b15bfe451931cc61535"
 metafile = true
 
 [[files]]
