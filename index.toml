@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/utility/cleancut.pw.toml"
-hash = "94384a5665b900d965b0f16a73aeba6007728be1b4f42b15bfe451931cc61535"
+hash = "03d51672cff1c574b940612c0db8859369659ef57c6fcceadb9000c31a59f42b"
 metafile = true
 
 [[files]]
