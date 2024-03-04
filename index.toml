@@ -355,6 +355,11 @@ hash = "1583566257af34f59e45cca329f340e96dc6a1122ff2e8461ef75f96c8f696e8"
 metafile = true
 
 [[files]]
+file = "mods/detail/diagonal-fences.pw.toml"
+hash = "8459210809b612d602dc744a09e04a4bc772c112f85336185425a65425a0a43a"
+metafile = true
+
+[[files]]
 file = "mods/detail/infinitybuttons.pw.toml"
 hash = "3d9b2eaf60c3abc7e39022e3a6faacc582cd87fc5d4fd5218292e672991b6ffa"
 metafile = true
@@ -412,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/detail/mortar.pw.toml"
 hash = "f8b2d258bb83f5fae14fab4f9df884b5298b11c922bd69fe953dbf6dd581b76b"
+metafile = true
+
+[[files]]
+file = "mods/detail/niftycarts.pw.toml"
+hash = "1cfea8c19682e125083416fd5b8ad7ddfde7dc813c7c6569281ca80db7107d19"
 metafile = true
 
 [[files]]
@@ -475,6 +485,11 @@ hash = "3fa7edc6717f0509c9fb82eb29adaf08ffbba6f733becb0a4085d71e1e43eb01"
 metafile = true
 
 [[files]]
+file = "mods/libs/cristel-lib.pw.toml"
+hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
+metafile = true
+
+[[files]]
 file = "mods/libs/every-compat.pw.toml"
 hash = "8f5efdd43bb0a57bc70d3710bb42c85e49a6688e1e829cd7d4f71fc220eca90b"
 metafile = true
@@ -532,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/libs/pehkui.pw.toml"
 hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+metafile = true
+
+[[files]]
+file = "mods/libs/puzzles-lib.pw.toml"
+hash = "234817faae966a2587dcc1c11e599ac9ab3a2ae16073f4a399048d6dd2242cba"
 metafile = true
 
 [[files]]
@@ -690,6 +710,11 @@ hash = "75a6c0f065f82fd91367e2f6c766d88463acc3bd4127c71035062c5e1b584751"
 metafile = true
 
 [[files]]
+file = "mods/utility/dusts-keymap.pw.toml"
+hash = "46d66c045c30d02b419eae8d68d16457746a83db22ec11df6f428302cb665253"
+metafile = true
+
+[[files]]
 file = "mods/utility/emi/emi-enchanting.pw.toml"
 hash = "9a69086377999fe415de6936f8ba2b0ff9e771390d2dad9314b564d423b20630"
 metafile = true
@@ -842,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/village/more-villagers-fabric.pw.toml"
 hash = "8d0412794abda3c9eaf4c673d96a45fe6a635142b1e853555d6574406af02b23"
+metafile = true
+
+[[files]]
+file = "mods/village/towns-and-towers.pw.toml"
+hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
 
 [[files]]
