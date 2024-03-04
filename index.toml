@@ -78,6 +78,10 @@ file = "config/openloader/data/origins-changes/data/moborigins/origins/drowned.j
 hash = "74c0f3950524376c3b978b66efff6fbe0a65d34b3c4ca20cdadbc3bbdcab17c7"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/moborigins/origins/evoker.json"
+hash = "b694c8ba8f809a15f9c35414d0a5e2e3e2b58f2eb527ba6343eecbcdc27823a5"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/moborigins/origins/snowgolem.json"
 hash = "6c2139569ed5e262d6012a8c4efd892e9a88a5dab67b4aa8d35d33ccd9b7f026"
 
