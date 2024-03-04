@@ -30,16 +30,84 @@ file = "config/openloader/data/mod-compat/pack.mcmeta"
 hash = "007790a0d824bc2155883064588025c48111cdd47a16af5ea9366f47223ec8cf"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/extraorigins/origins/floran.json"
+hash = "35b56480d67bc0f91b33cb564097f7a9514b71c4bcf2d34b7b1e0cfaa2000c16"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/medievalorigins/origins/banshee.json"
-hash = "9a0f83bb59e5224f2636244eff0d1f13da2ffd1eead2a98be7f690771d10108a"
+hash = "dde272e92c39a021e0b6ea1361d856a46f81c2b42bc2b68b25c7839dad9f5731"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/dwarf.json"
+hash = "66b3341b13f2eaa6a9f9cc8da6703e36fcb7fd5612d84d1babe2c2f96923fbd1"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/fae.json"
+hash = "2796c3a38fa4d866a8588831e4400ad7c1fed96321196b02052a363c13bd7f1a"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/gorgon.json"
+hash = "14bb0be1df5a865bdd690b49791c9502f7a03356fa821104760088109aa46229"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/incubus.json"
+hash = "437ee9030ad1cc75f56eccfe4e05d629e70889e11670bbbc7b628535661c1046"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/necromancer.json"
+hash = "1a1cf85986c768dcc2625e3d8d902d9170e56f4fa713b55ce00f6a16ad6394d5"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/pixie.json"
+hash = "084897011177342cc4a05e226d88e48ea10e950d997a379d77491ad7c3369107"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/plague_victim.json"
+hash = "54c06306cab3db272b50b7e802d74fd6646e83402866c71d6e2594f28b94957f"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/siren.json"
+hash = "e527d8e28cee0cbbad59b20204a2b4692a0db13e94e9f73254d04365b5dce43c"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/yeti.json"
+hash = "a6e6f39d6a95d025898a19c60e54f48d07109f3952e7dc9941714c7f93fa3ea7"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/moborigins/origins/drowned.json"
+hash = "74c0f3950524376c3b978b66efff6fbe0a65d34b3c4ca20cdadbc3bbdcab17c7"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/moborigins/origins/snowgolem.json"
+hash = "6c2139569ed5e262d6012a8c4efd892e9a88a5dab67b4aa8d35d33ccd9b7f026"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/moborigins/origins/strider.json"
+hash = "e55aec187ecf803cf41c62aacac04663fe089dd3da8785391f493c087dca4c73"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/moborigins/origins/witch.json"
+hash = "69386aab99e90bac759ee7e8f12742388de8f66b5eff0f562aa2eeef8357c9ef"
 
 [[files]]
 file = "config/openloader/data/origins-changes/data/origins_minus/origins/dryad.json"
-hash = "636948cec2598cc23e08c321b3d2065da099cd678c790733e02c6e846cb42ce8"
+hash = "af3be61ab397a286a3977c7cbe06cb17aad89366bc44550dbdac156f652237f8"
 
 [[files]]
 file = "config/openloader/data/origins-changes/data/origins_minus/origins/sanguine.json"
-hash = "64ba0fc8022af8b8be7a490370570448714c5dec3607a3951ae1758e7fcc1d81"
+hash = "a8376df6b78157c66c9fcc99656a80015efd407fc0e9a14c680a18f4c965916d"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/toomanyorigins/origins/dragonborn.json"
+hash = "3a6e3ef2b1cadc6bff488ba9ac8758d31b643a8ad0dd635ab05c4f3f5e831400"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/toomanyorigins/origins/hisskin.json"
+hash = "e776e80d99401477e343fd1621fb9dcaf42126bbc42c8b1d25a634b1a36dbbe0"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/toomanyorigins/origins/swarm.json"
+hash = "7a029d9ad83335509cfd4da3e6d5bcc44258d7fadda21a6b6f67b6b8eb690250"
 
 [[files]]
 file = "config/openloader/data/origins-changes/pack.mcmeta"
@@ -50,12 +118,16 @@ file = "config/smoothswapping.json"
 hash = "459cd6e5d53eff15f6504d28dba55e2f83b93d56783ccb0236b66fd5480f40e4"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "e8dff1048079d42abe7dc152a1172c954b6acb2160b273afd6de37010b2ca29e"
+
+[[files]]
 file = "config/travelersbackpack.json5"
 hash = "b7333087ec5ecc9d368ff69e662f29beaa4ccad37730e2492361b4aaf6d0f029"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "1e445bd2ff08964672aefb9b7372029df37c79076c4a808b4155f8a589ae8da9"
+hash = "c11459e268b5944ce007c16184c5f8b0acc14df137cb029c11432b700e320412"
 
 [[files]]
 file = "mods/ambiance/ambientsounds.pw.toml"

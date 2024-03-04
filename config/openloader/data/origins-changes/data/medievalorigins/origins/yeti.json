@@ -1,0 +1,21 @@
+{    
+	"powers": [
+		"medievalorigins:yeti/frigid_pulse",
+		"medievalorigins:yeti/from_whence_you_came",
+		"medievalorigins:yeti/frosty_breath",
+		"medievalorigins:yeti/titanic",
+		"medievalorigins:yeti/unstoppable",
+		"medievalorigins:yeti/winter_body",
+		"medievalorigins:yeti/flammable",
+		"medievalorigins:yeti/thick_fur",
+		"origins_env_deh:cold_resistance"
+	],
+	"icon": {
+		"item": "minecraft:ink_sac",
+		"tag": "{CustomModelData:365}"
+	},
+	"impact": 2,
+	"order": 1,
+	"unchoosable": true,
+	"loading_priority": 100
+}

@@ -11,5 +11,5 @@
 	},
 	"impact": 2,
     "unchoosable": true,
-    "loading_priority": 3
+    "loading_priority": 100
 }

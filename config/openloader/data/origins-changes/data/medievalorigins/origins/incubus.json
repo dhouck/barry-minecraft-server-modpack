@@ -1,0 +1,23 @@
+{
+	"powers": [
+                "medievalorigins:incubus/demon_fire",
+		"medievalorigins:incubus/hellborne",
+                "medievalorigins:incubus/carnivore",
+                "medievalorigins:incubus/unholy_deal",
+                "medievalorigins:incubus/hydrophobe",
+                "medievalorigins:incubus/impure",
+                "medievalorigins:incubus/dimension_strength",
+                "medievalorigins:incubus/lava_swim",
+                "medievalorigins:incubus/red",
+                "origins:nether_spawn",
+                "origins_env_deh:heat_resistance"
+	],
+        "icon": {
+		"item": "minecraft:ink_sac",
+		"tag": "{CustomModelData:353}"
+	},
+	"impact": 2,
+        "order": 1,
+        "unchoosable": true,
+        "loading_priority": 100
+}
