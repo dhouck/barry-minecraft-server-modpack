@@ -209,6 +209,11 @@ hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
+file = "mods/content/create/copycats.pw.toml"
+hash = "481851c8a38da11fd49324e104840de9f4e0e487e230ef4062d176ab23840d25"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-big-cannons.pw.toml"
 hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
 metafile = true
