@@ -1,4 +1,5 @@
 name = "Barry Server Pack"
+author = "Daniel and Barry"
 version = "0.3.3"
 pack-format = "packwiz:1.1.0"
 
