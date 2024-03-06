@@ -1,0 +1,7 @@
+name = "simplified-nether-chest-recipe"
+filename = "simplified_nether_chest_recipe_datapack.zip"
+
+[download]
+url = "https://raw.githubusercontent.com/Kir-Antipov/nether-chest/mc1.20-5.2/media/simplified_nether_chest_recipe_datapack.zip"
+hash-format = "sha256"
+hash = "aa23fc50a1a548d5af5e7fdd25ad3b1ca2bbc0d1ec4f1465bf664021be83bf9b"

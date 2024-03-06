@@ -6,7 +6,7 @@
 	respawn: {
 		// default: max(14, hunger)
 		// 	Must be a valid expression
-		hunger: max(14, hunger)
+		hunger: hunger
 		// default: saturation
 		// 	Must be a valid expression
 		saturation: saturation

@@ -1,0 +1,18 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "tag": "intergalactic:sculk_five_xp"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:experience_nugget"
+        },
+        {
+            "item": "create:experience_nugget",
+            "chance": 0.66
+        }
+    ],
+    "processingTime": 100
+}

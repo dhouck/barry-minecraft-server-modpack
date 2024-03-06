@@ -30,6 +30,34 @@ file = "config/openloader/data/mod-compat/pack.mcmeta"
 hash = "007790a0d824bc2155883064588025c48111cdd47a16af5ea9366f47223ec8cf"
 
 [[files]]
+file = "config/openloader/data/modpack-extras/data/intergalactic/functions/load.mcfunction"
+hash = "3bcb70b09a9f41bfc3ca001e0d2105a1137b128a56f273b3fc0bfb2a1f7f9847"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/intergalactic/recipes/big_sculk_milling.json"
+hash = "4a7ac3d56adc548a818e987ebf4a67e22ba9f03a8c82947480c11e24c0ce372b"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/intergalactic/recipes/sculk_milling.json"
+hash = "fdab19ec858b734d379bbc443ba3f315db874cd83be56e501a9fbcca23f7c001"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/intergalactic/tags/items/sculk_five_xp.json"
+hash = "604d0e0d12d10dee0d6877e7002dd5e244147f9c75256475889eb9a8aceddb67"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/minecraft/tags/functions/load.json"
+hash = "b28bd8739f51151c73e203669abcff879489305bd01ccfd20b10705d68ef56d6"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/minecraft/tags/worldgen/structure/eye_of_ender_located.json"
+hash = "640973a76ce0d2a6599a2e5b6641f2b5801dcd9cfb34d4464dace801767e1efb"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/pack.mcmeta"
+hash = "6f674fdc5e5d360863c9654fffed99fedcb5d8d54a1a9ffd760696270cd74435"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/extraorigins/origins/floran.json"
 hash = "35b56480d67bc0f91b33cb564097f7a9514b71c4bcf2d34b7b1e0cfaa2000c16"
 
@@ -118,12 +146,17 @@ file = "config/openloader/data/origins-changes/pack.mcmeta"
 hash = "a5f4fca2a1eb8076def223bf6beb5bf3ee5c1b7b8f5e9073fbda4d7e83c9f816"
 
 [[files]]
+file = "config/openloader/data/simplified-nether-chest-recipe.pw.toml"
+hash = "f77fa2d6d2d6c76110d533373cb5bb097e0de232b45e9a52d8186fbefeee5696"
+metafile = true
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "459cd6e5d53eff15f6504d28dba55e2f83b93d56783ccb0236b66fd5480f40e4"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "e8dff1048079d42abe7dc152a1172c954b6acb2160b273afd6de37010b2ca29e"
+hash = "6c9461e0d960496f69691d64bf612974beef1acda0b1d6cf4b6dce5479497048"
 
 [[files]]
 file = "config/travelersbackpack.json5"
@@ -694,11 +727,6 @@ hash = "ad90f842982f0bb2b5bb2848fb49b97e198b587e8906b25d1e24df37895262f4"
 metafile = true
 
 [[files]]
-file = "mods/utility/client-display/g4mespeed.pw.toml"
-hash = "76b6b1ae5c4bcdaaba105a4e2fe5681a04515c38d555360a81c648a558f337bb"
-metafile = true
-
-[[files]]
 file = "mods/utility/client-display/item-highlighter.pw.toml"
 hash = "04f4baccbce4d6b5dec75550109b9fe3e86f4b1b8c2e95b17154131ff421aaa5"
 metafile = true
@@ -721,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/utility/dusts-keymap.pw.toml"
 hash = "46d66c045c30d02b419eae8d68d16457746a83db22ec11df6f428302cb665253"
+metafile = true
+
+[[files]]
+file = "mods/utility/elytra-slot.pw.toml"
+hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
 metafile = true
 
 [[files]]
