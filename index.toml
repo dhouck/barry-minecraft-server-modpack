@@ -802,6 +802,11 @@ hash = "12337afa8fd12dde33466b18e57dba567bcaa66323210b3c67fc21d69e62cad7"
 metafile = true
 
 [[files]]
+file = "mods/utility/inventory-sorting.pw.toml"
+hash = "a75ba316167d853405f1951ca721be98429e634cb75b3c1fc2ff491fe6dc11f9"
+metafile = true
+
+[[files]]
 file = "mods/utility/jade/jade-addons-fabric.pw.toml"
 hash = "6e6516aab04db2d18150f5d85d2e4469ef30c040e58bef175dbee0f1275087c5"
 metafile = true
@@ -814,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/utility/journeymap/journeymap.pw.toml"
 hash = "7f0906bb02089efcf37a977638698eb02a3edc70b18f866ec5e6958138f15d09"
+metafile = true
+
+[[files]]
+file = "mods/utility/masa/item-scroller.pw.toml"
+hash = "f9125af1842d4d5fd3ab9a5e25673c72796ef7a9f990a47f0ea9c796e3256591"
 metafile = true
 
 [[files]]
