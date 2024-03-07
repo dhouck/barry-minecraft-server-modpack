@@ -22,6 +22,10 @@ hash = "d275e67adb29ebd88a0f77f4a809e64b4f4f37f093e33515465786f71425df55"
 metafile = true
 
 [[files]]
+file = "config/openloader/data/mod-compat/data/cookingforblockheads/recipes/heating_unit.json"
+hash = "fa377b692f69f76c5e05aafd90a711bce09371cc65d3416ca1f8b78a8a579d01"
+
+[[files]]
 file = "config/openloader/data/mod-compat/data/travelersbackpack/tags/items/acceptable_tools.json"
 hash = "0d451c8b0136c86422607b21adfdc168769a798c2f1b63c7392d7921c010b1c6"
 
