@@ -276,11 +276,6 @@ hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
-file = "mods/content/create/create-new-age.pw.toml"
-hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-steam-n-rails.pw.toml"
 hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
@@ -296,13 +291,13 @@ hash = "76cdd4223c19819d5b2eceaa1866e10ce80dc0226e75ef31581f46859e2e5c06"
 metafile = true
 
 [[files]]
-file = "mods/content/create/extended-cogwheels.pw.toml"
-hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
+file = "mods/content/create/createaddition.pw.toml"
+hash = "286058f5c8cab754bbae76a88cb8fcd2f3c0a8fc14a5768dbf249355df451b6e"
 metafile = true
 
 [[files]]
-file = "mods/content/create/liquid-burner.pw.toml"
-hash = "a9cc8ca630a6e275d4df79ff1b14a4a60d7d0da4f7b9ebc10d9c26ddf1e68de8"
+file = "mods/content/create/extended-cogwheels.pw.toml"
+hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
 metafile = true
 
 [[files]]
