@@ -2,14 +2,14 @@
 	// default: NONE
 	show-last-eaten-tips: EXTENDED
 	// default: false
-	enable-journal-command: false
+	enable-journal-command: true
 	respawn: {
 		// default: max(14, hunger)
 		// 	Must be a valid expression
-		hunger: hunger
+		hunger: "20"
 		// default: saturation
 		// 	Must be a valid expression
-		saturation: saturation
+		saturation: "5"
 		// default: false
 		reset-history: true
 		// default: false

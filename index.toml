@@ -66,6 +66,10 @@ file = "config/openloader/data/origins-changes/data/extraorigins/origins/floran.
 hash = "35b56480d67bc0f91b33cb564097f7a9514b71c4bcf2d34b7b1e0cfaa2000c16"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/medievalorigins/origins/arachnae.json"
+hash = "2469720f8c8f98a413f8c81a2490c995a641e9b732298bb1ed6d728b8f261931"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/medievalorigins/origins/banshee.json"
 hash = "dde272e92c39a021e0b6ea1361d856a46f81c2b42bc2b68b25c7839dad9f5731"
 
@@ -126,6 +130,14 @@ file = "config/openloader/data/origins-changes/data/moborigins/origins/witch.jso
 hash = "69386aab99e90bac759ee7e8f12742388de8f66b5eff0f562aa2eeef8357c9ef"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/origins/tags/items/ignore_diet.json"
+hash = "794e24382a4ba8ef0e3d2f2d9af9a8e92a6e662902e40eed777da9b7555a9e6f"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/origins/tags/items/meat.json"
+hash = "98ebbcb4b6c84864b7381582363a6b4aa6d4514b56665809cfc2c33022b10b64"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/origins_minus/origins/dryad.json"
 hash = "af3be61ab397a286a3977c7cbe06cb17aad89366bc44550dbdac156f652237f8"
 
@@ -160,7 +172,7 @@ hash = "459cd6e5d53eff15f6504d28dba55e2f83b93d56783ccb0236b66fd5480f40e4"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "6c9461e0d960496f69691d64bf612974beef1acda0b1d6cf4b6dce5479497048"
+hash = "c75cfd9e29ea19e56703f5ee2b8e0e3ee72db23decbf7361c743a2e47bcc692d"
 
 [[files]]
 file = "config/travelersbackpack.json5"

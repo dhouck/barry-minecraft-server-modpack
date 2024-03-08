@@ -1,0 +1,16 @@
+{
+	"powers": [
+                "medievalorigins:arachnae/climber",
+		"medievalorigins:arachnae/many_eyes",
+                "medievalorigins:arachnae/venomous_bite",
+                "origins:master_of_webs",
+                "medievalorigins:arachnae/bottomless_stomach",
+                "medievalorigins:arachnae/brittle",
+                "medievalorigins:arachnae/fragile_exoskeleton",
+                "origins:fall_immunity"
+	],
+	"icon": "minecraft:string",
+	"impact": 2,
+        "order": 1,
+        "loading_priority": 100
+}
