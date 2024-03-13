@@ -130,6 +130,10 @@ file = "config/openloader/data/origins-changes/data/moborigins/origins/witch.jso
 hash = "69386aab99e90bac759ee7e8f12742388de8f66b5eff0f562aa2eeef8357c9ef"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/origins-classes/origins/rogue.json"
+hash = "f37935a17c103eeefee00e272da7f97d8ac92168be26f781a1537cf4bf798745"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/origins/tags/items/ignore_diet.json"
 hash = "794e24382a4ba8ef0e3d2f2d9af9a8e92a6e662902e40eed777da9b7555a9e6f"
 
