@@ -9,6 +9,14 @@ file = "config/nether_chest.json"
 hash = "c157dc6631817bdaa4bdfc42381af265d9f3dbfa8a012cc2da84f15a7b4af5e0"
 
 [[files]]
+file = "config/openloader/data/bundles/data/minecraft/advancements/recipes/tools/bundle.json"
+hash = "485277575c5ccfd9017a0b58018a8d744c0c7a23dd0232540ad951cec52ae10d"
+
+[[files]]
+file = "config/openloader/data/bundles/data/minecraft/recipes/bundle.json"
+hash = "779dcfbbd62a8880e70c3b4ff699807607523c76d996ae5c700718d338f666d4"
+
+[[files]]
 file = "config/openloader/data/bundles/pack.mcmeta"
 hash = "c9858fea87a744b705c8dde3d296b62d430f3c1f4b57f763ae4b19891a432139"
 
