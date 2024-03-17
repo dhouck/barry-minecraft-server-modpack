@@ -13,6 +13,10 @@ file = "config/extended_drawers.json"
 hash = "c42532f5bf9afef07c4e39f631fad8f1b3a03a7a5cf855934567a7734d516d3f"
 
 [[files]]
+file = "config/inmis.json"
+hash = "357467d30582cbaa2a616d7580d95a52f24f8d5095df73a70becaa635ce74f08"
+
+[[files]]
 file = "config/nether_chest.json"
 hash = "c157dc6631817bdaa4bdfc42381af265d9f3dbfa8a012cc2da84f15a7b4af5e0"
 
@@ -40,10 +44,6 @@ metafile = true
 [[files]]
 file = "config/openloader/data/mod-compat/data/cookingforblockheads/recipes/heating_unit.json"
 hash = "fa377b692f69f76c5e05aafd90a711bce09371cc65d3416ca1f8b78a8a579d01"
-
-[[files]]
-file = "config/openloader/data/mod-compat/data/travelersbackpack/tags/items/acceptable_tools.json"
-hash = "0d451c8b0136c86422607b21adfdc168769a798c2f1b63c7392d7921c010b1c6"
 
 [[files]]
 file = "config/openloader/data/mod-compat/pack.mcmeta"
@@ -197,10 +197,6 @@ hash = "459cd6e5d53eff15f6504d28dba55e2f83b93d56783ccb0236b66fd5480f40e4"
 [[files]]
 file = "config/spiceoffabric.hjson"
 hash = "c75cfd9e29ea19e56703f5ee2b8e0e3ee72db23decbf7361c743a2e47bcc692d"
-
-[[files]]
-file = "config/travelersbackpack.json5"
-hash = "b7333087ec5ecc9d368ff69e662f29beaa4ccad37730e2492361b4aaf6d0f029"
 
 [[files]]
 file = "config/universal-graves/config.json"
@@ -437,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/detail/client/custom-player-models.pw.toml"
 hash = "2b037aa3101bc299bdf606b9edbca3b44f25915e834f15b5ac776223c8494086"
+metafile = true
+
+[[files]]
+file = "mods/detail/comforts.pw.toml"
+hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
 metafile = true
 
 [[files]]
@@ -940,6 +941,11 @@ hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
 
 [[files]]
+file = "mods/utility/storage/inmis.pw.toml"
+hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
+metafile = true
+
+[[files]]
 file = "mods/utility/storage/nether-chest.pw.toml"
 hash = "35a19eb76f45987452f2ef14e1238b04251f8abf398636554b8016593b2fecd0"
 metafile = true
@@ -947,11 +953,6 @@ metafile = true
 [[files]]
 file = "mods/utility/storage/where-is-it.pw.toml"
 hash = "9d6e1a1b59c0514a54d1b531f8116fb72d1327890ee074b2a90f5e926e5d3a78"
-metafile = true
-
-[[files]]
-file = "mods/utility/travelersbackpack.pw.toml"
-hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
 metafile = true
 
 [[files]]
