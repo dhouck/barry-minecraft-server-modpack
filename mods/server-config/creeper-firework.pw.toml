@@ -1,0 +1,13 @@
+name = "Creeper Firework"
+filename = "creeper_firework-2.1.0.b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/owUiXPam/versions/aRMDViVX/creeper_firework-2.1.0.b.jar"
+hash-format = "sha1"
+hash = "1f2e952ecb18e8d59a7b4be987fe02bcc4c63391"
+
+[update]
+[update.modrinth]
+mod-id = "owUiXPam"
+version = "aRMDViVX"

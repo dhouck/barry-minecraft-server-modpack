@@ -5,6 +5,10 @@ file = "TODO.md"
 hash = "c87527f28242c088d5426e015b2ec1274e0bbf0faffcf85c94d59a270cb7b48f"
 
 [[files]]
+file = "config/creeper_firework.json5"
+hash = "b8044d3bf7dbb4778ed2586f3abf92d3a0a9c9257d22c65abc2ebcb61f6cd711"
+
+[[files]]
 file = "config/extended_drawers.json"
 hash = "c42532f5bf9afef07c4e39f631fad8f1b3a03a7a5cf855934567a7734d516d3f"
 
@@ -60,6 +64,10 @@ hash = "fdab19ec858b734d379bbc443ba3f315db874cd83be56e501a9fbcca23f7c001"
 [[files]]
 file = "config/openloader/data/modpack-extras/data/intergalactic/tags/items/sculk_five_xp.json"
 hash = "604d0e0d12d10dee0d6877e7002dd5e244147f9c75256475889eb9a8aceddb67"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/minecraft/tags/blocks/enderman_holdable.json"
+hash = "7dae7a06a16d87b3618bef1bb03afa45d7f793e42ee00bc91b5ff53a4d17130a"
 
 [[files]]
 file = "config/openloader/data/modpack-extras/data/minecraft/tags/functions/load.json"
@@ -689,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/performance/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+metafile = true
+
+[[files]]
+file = "mods/server-config/creeper-firework.pw.toml"
+hash = "d19f8a815b5348a39e8ea31b32959dfb7945c12cde6cba9907b6e3ffc5bd6e20"
 metafile = true
 
 [[files]]
