@@ -199,6 +199,14 @@ file = "config/universal-graves/config.json"
 hash = "c11459e268b5944ce007c16184c5f8b0acc14df137cb029c11432b700e320412"
 
 [[files]]
+file = "configureddefaults/config/litematica.json"
+hash = "15e2ab93813ac47669bd6b86d2555e15c86a6b2055e18a1bd3c20d78e5971b7d"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "860f7cdde11d85f7772a60ac219faf97896f9c9f3f3fa86af6c9fe049ac0eceb"
+
+[[files]]
 file = "mods/ambiance/ambientsounds.pw.toml"
 hash = "ec9960a32b3fc03b7e849734104c4d6151102b14e580561e94c49c1388923609"
 metafile = true
@@ -771,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/utility/client-display/zoomify.pw.toml"
 hash = "75a6c0f065f82fd91367e2f6c766d88463acc3bd4127c71035062c5e1b584751"
+metafile = true
+
+[[files]]
+file = "mods/utility/configured-defaults.pw.toml"
+hash = "51e03afa33ca0999c85ee7fdfe2fcc25d5b238abd2a8630a12cbb80f9b658b76"
 metafile = true
 
 [[files]]
