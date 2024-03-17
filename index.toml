@@ -191,6 +191,14 @@ hash = "f77fa2d6d2d6c76110d533373cb5bb097e0de232b45e9a52d8186fbefeee5696"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/modpack-extras/assets/origins-classes/lang/en_us.json"
+hash = "e900b19cc880e01d8e870d6d68d48fab37c22bedb169fb3f6e798c485e921d6d"
+
+[[files]]
+file = "config/openloader/resources/modpack-extras/pack.mcmeta"
+hash = "abf300d01cc7d375a7d9ee5052137113862bcd9f5c8f905412b8fe09bb0eeb1d"
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "459cd6e5d53eff15f6504d28dba55e2f83b93d56783ccb0236b66fd5480f40e4"
 
