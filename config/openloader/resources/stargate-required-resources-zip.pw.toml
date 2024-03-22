@@ -1,7 +1,0 @@
-name = "stargate-required-resources.zip"
-filename = "Stargate.Base.Resources.zip"
-
-[download]
-url = "https://github.com/dhouck/Stargate-Datapack/releases/download/v5.0.0b3/Stargate.Base.Resources.zip"
-hash-format = "sha256"
-hash = "570ecfeb75f1bd6df4750b1270a793a4a8bd162cea746254b47352379d00ef81"
