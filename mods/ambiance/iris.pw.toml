@@ -15,4 +15,4 @@ version = "JHbrO6Zq"
 [option]
 optional=true
 default=false
-description="Needed for shaders.  Shaders not included, some assembly required."
+description="Needed for shaders.  Shaders not included, some assembly required.  Requires Sodium/Indium."

@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambiance/iris.pw.toml"
-hash = "614378760d84a9cbac5c38f5411622409cb8e88e0887f27c5af7fa76e76927c2"
+hash = "10374cfa72c6eb649a778a67d07973914c8885d085186d56e7276891c48858d5"
 metafile = true
 
 [[files]]
@@ -379,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/content/farmers-delight/farmers-respite-fabric.pw.toml"
 hash = "3b09bb825c6293c1c1fb2addd2c88e03af6cb4f0cc72040cd8696a51a3ef8f5f"
+metafile = true
+
+[[files]]
+file = "mods/content/hephaestus.pw.toml"
+hash = "b633daed2cf3a7985ed6602174a768932bff07fd8f4d700517ff0906726e100a"
 metafile = true
 
 [[files]]
