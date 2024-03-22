@@ -150,6 +150,10 @@ file = "config/openloader/data/origins-changes/data/moborigins/origins/evoker.js
 hash = "b694c8ba8f809a15f9c35414d0a5e2e3e2b58f2eb527ba6343eecbcdc27823a5"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/moborigins/origins/guardian.json"
+hash = "63dcfd714455f895b809efbe54dfc865959b6eaea9c7ba41ce372802b6de9b73"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/moborigins/origins/snowgolem.json"
 hash = "6c2139569ed5e262d6012a8c4efd892e9a88a5dab67b4aa8d35d33ccd9b7f026"
 
