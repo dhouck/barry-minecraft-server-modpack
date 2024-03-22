@@ -1,5 +1,5 @@
 operatorItemsTab:true
 showSubtitles:true
 darkMojangStudiosBackground:true
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","railways:green_signals","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","railways:green_signals","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip","resources/Stargate.Base.Resources.zip","resources/modpack-extras","file/Stargate.HD.Addons.zip"]
 soundCategory_ambient:0.5

@@ -1,0 +1,7 @@
+name = "stargate-datapack.zip"
+filename = "Stargate.Datapack.zip"
+
+[download]
+url = "https://github.com/dhouck/Stargate-Datapack/releases/download/v5.0.0b3/Stargate.Datapack.zip"
+hash-format = "sha256"
+hash = "d36e123e1af24463a8a8f88476b246955b32bce0352ac7af8182a2fe3da322da"
