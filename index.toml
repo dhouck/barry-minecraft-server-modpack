@@ -974,6 +974,11 @@ hash = "fc1cd4bb3bdd9556fca0ec372dde144e70c9121f7b11237825d4b97ca9dad2c0"
 metafile = true
 
 [[files]]
+file = "mods/utility/polymorph.pw.toml"
+hash = "03c50c52bcdcc958ab261fdf157977356800ea7402f40bcc1c9552a465bb2ec6"
+metafile = true
+
+[[files]]
 file = "mods/utility/replanter.pw.toml"
 hash = "cb52e210f0ea40b428bfff643acac2ffbc43b81275e47443db04862959441154"
 metafile = true
