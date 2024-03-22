@@ -166,6 +166,10 @@ file = "config/openloader/data/origins-changes/data/origins_minus/origins/dryad.
 hash = "af3be61ab397a286a3977c7cbe06cb17aad89366bc44550dbdac156f652237f8"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/origins_minus/origins/mer.json"
+hash = "d3818e7ea767eeed5df4575ed50edd1d2ad03189f6f2b4add318639da0846a71"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/origins_minus/origins/sanguine.json"
 hash = "a8376df6b78157c66c9fcc99656a80015efd407fc0e9a14c680a18f4c965916d"
 
@@ -275,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/compat/slice-and-dice.pw.toml"
-hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
+hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
 metafile = true
 
 [[files]]
@@ -295,12 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/copycats.pw.toml"
-hash = "481851c8a38da11fd49324e104840de9f4e0e487e230ef4062d176ab23840d25"
-metafile = true
-
-[[files]]
-file = "mods/content/create/create-big-cannons.pw.toml"
-hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
+hash = "2ce30db7df879d90994260483d4d1294a9a574f92507b0383325ecbda5bcf05d"
 metafile = true
 
 [[files]]
@@ -309,23 +308,18 @@ hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
 metafile = true
 
 [[files]]
-file = "mods/content/create/create-diesel-generators-fabric.pw.toml"
-hash = "d2218b74d104cfd239c2bc6e1a3adb92142f3437f40d2053d9adb95bb5b7fd86"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-enchantment-industry-fabric.pw.toml"
-hash = "867a8ce1e5993887a1420761a63cd74ff6fca108695a3eb450346f819f080dd8"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
 
 [[files]]
 file = "mods/content/create/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
 
 [[files]]
 file = "mods/content/create/create-steam-n-rails.pw.toml"
-hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
 metafile = true
 
 [[files]]
@@ -340,12 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/createaddition.pw.toml"
-hash = "286058f5c8cab754bbae76a88cb8fcd2f3c0a8fc14a5768dbf249355df451b6e"
-metafile = true
-
-[[files]]
-file = "mods/content/create/extended-cogwheels.pw.toml"
-hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
@@ -360,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/dimensions/the-bumblezone-fabric.pw.toml"
-hash = "f54a157a502ceea3b8184733a15731664628a914672438d775505754fe5f38c2"
+hash = "3da219ce0ed6b4030c72c3739d1952040732eeb4efc4d53abad31d0544323b47"
 metafile = true
 
 [[files]]
@@ -415,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/origins/toomanyorigins.pw.toml"
-hash = "89f7fcab1a7c1563e4bbf1875550f74cb9b07492d5ac6ca59f628c24917f6237"
+hash = "5f02aa4795328ad31ed138bd77e8c908a46d453ffc103711a85f7477947c18ad"
 metafile = true
 
 [[files]]
@@ -585,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/every-compat.pw.toml"
-hash = "8f5efdd43bb0a57bc70d3710bb42c85e49a6688e1e829cd7d4f71fc220eca90b"
+hash = "ce5b93a0649ad3ec4ea2bb0f081d213c58a362aeb0f96465d70b71f5cc76ed23"
 metafile = true
 
 [[files]]
@@ -625,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/moonlight.pw.toml"
-hash = "0d9cc3aa762d5c8d1d60c6185f7ec390f8d9315a726c1f10e96bdb1d459110bb"
+hash = "b91afc0cc0069f645835be6bf7a9da309e61f9bc207e486fe8cb5af7012632d9"
 metafile = true
 
 [[files]]
@@ -645,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/puzzles-lib.pw.toml"
-hash = "234817faae966a2587dcc1c11e599ac9ab3a2ae16073f4a399048d6dd2242cba"
+hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
 
 [[files]]
@@ -770,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/utility/client-display/chat-heads.pw.toml"
-hash = "77e9f6a76a6d46724db0b3a2fb197a3ca5787b06a0e21810b41b28c10df2ebba"
+hash = "57c5f77f4dd5699b6f4e864a22028c46b7dfae10e8e52289dca1675e1bd491ce"
 metafile = true
 
 [[files]]
@@ -845,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/utility/emi/extra-mod-integrations.pw.toml"
-hash = "43df7b7d13b38a71e5064652836862d5626200d6ff8db0e04bc04c8095436dcf"
+hash = "40a4345a55118ecef9db28501b40c6fdda93decc1f7fb9d1116fcf8d56425ee6"
 metafile = true
 
 [[files]]
@@ -970,12 +959,12 @@ metafile = true
 
 [[files]]
 file = "mods/utility/xaeros/xaeros-minimap.pw.toml"
-hash = "56fd3abf1cb2339def35773d988c4e82cc5bbc2048b6292f9d5f7690144bb641"
+hash = "6d69dec43f7a697cf57527bcc62ba3053801296e45b952ee547748d94ada3905"
 metafile = true
 
 [[files]]
 file = "mods/utility/xaeros/xaeros-world-map.pw.toml"
-hash = "fe149e44615e66056455aa90c1052cfd04e0279f69d786bcf9f2de0a50c691a4"
+hash = "6c645893c699f63c40075675b44d011fa2b68b112e1eb546ea1fe4cb3ea59ecb"
 metafile = true
 
 [[files]]
@@ -1015,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/tectonic.pw.toml"
-hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
 metafile = true
 
 [[files]]
@@ -1045,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yung/yungs-better-end-island.pw.toml"
-hash = "9ce21f5c13551a2dce4fbb0b98e30ac273c798bba58339f00b2bccf48300160c"
+hash = "470d51d25045b6050ab52cc0ea37f1e9b23c82c3401dc8d10e832cb11c7cd3dd"
 metafile = true
 
 [[files]]
@@ -1060,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yung/yungs-better-nether-fortresses.pw.toml"
-hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
+hash = "13daa687a4ba568dc869e6275969995380016fb08a968673e2a94b33383fa5a7"
 metafile = true
 
 [[files]]
