@@ -228,6 +228,11 @@ hash = "ec9960a32b3fc03b7e849734104c4d6151102b14e580561e94c49c1388923609"
 metafile = true
 
 [[files]]
+file = "mods/ambiance/iris.pw.toml"
+hash = "614378760d84a9cbac5c38f5411622409cb8e88e0887f27c5af7fa76e76927c2"
+metafile = true
+
+[[files]]
 file = "mods/ambiance/lambdynamiclights.pw.toml"
 hash = "dcaa3628b37f4db0e9956b420234d96a8710cd40299eb12764061a654a2583c4"
 metafile = true
@@ -683,6 +688,11 @@ hash = "1af9299b86abed618c977221debc415171dae6b5ce098cec824c867d25fe0fc8"
 metafile = true
 
 [[files]]
+file = "mods/performance/indium.pw.toml"
+hash = "06b13c3563219937968558fc49b5b450d58592209701bb5188365c121485ec4e"
+metafile = true
+
+[[files]]
 file = "mods/performance/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -695,6 +705,11 @@ metafile = true
 [[files]]
 file = "mods/performance/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium.pw.toml"
+hash = "04ef8a9d13b67158ae7644c9059591f45ae79e647797b0c0706c0e2f71c23481"
 metafile = true
 
 [[files]]
