@@ -5,6 +5,10 @@ file = "TODO.md"
 hash = "c87527f28242c088d5426e015b2ec1274e0bbf0faffcf85c94d59a270cb7b48f"
 
 [[files]]
+file = "config/create_power_loader-server.toml"
+hash = "ce3667d958bcc6308c17b98c03be4b92608b6b149c84a099d50b4495bb989d70"
+
+[[files]]
 file = "config/creeper_firework.json5"
 hash = "b8044d3bf7dbb4778ed2586f3abf92d3a0a9c9257d22c65abc2ebcb61f6cd711"
 
@@ -320,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/content/create/create-fabric.pw.toml"
 hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-power-loader-fabric.pw.toml"
+hash = "70fba7c03aa74167b98cbd4ca7f2ff416a821e74bdb94543fd63f653a2ad6ce7"
 metafile = true
 
 [[files]]
