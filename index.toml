@@ -253,6 +253,22 @@ file = "configureddefaults/config/litematica.json"
 hash = "15e2ab93813ac47669bd6b86d2555e15c86a6b2055e18a1bd3c20d78e5971b7d"
 
 [[files]]
+file = "configureddefaults/journeymap/config/5.9/journeymap.fullmap.config"
+hash = "7d8956700a1e38c556f254759c1681ef1191ad59ab0ffd3373afa555f79ba212"
+
+[[files]]
+file = "configureddefaults/journeymap/config/5.9/journeymap.minimap.config"
+hash = "151e7092141973e90494811288b5da1bd27bffaf4f71b8553b0f0e5f1c69ec5a"
+
+[[files]]
+file = "configureddefaults/journeymap/config/5.9/journeymap.minimap2.config"
+hash = "f8142932da2de288f076eed8957fa6ab30fa8c0ebd6334b66edd51835f674de7"
+
+[[files]]
+file = "configureddefaults/journeymap/config/5.9/journeymap.waypoint.config"
+hash = "6bb8b6012128b4c6c976a32257d35a0fbf1cfaa4dd252f743c72ca23116b27b4"
+
+[[files]]
 file = "configureddefaults/options.txt"
 hash = "1da1f0d17e055c379328a571d955e64dbf564198fa68ca7d6fd7203d9c6be4ee"
 
