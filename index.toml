@@ -94,6 +94,22 @@ file = "config/openloader/data/modpack-extras/data/stargates/tags/functions/chev
 hash = "4dba4394ace07d534d18afc688a302367c02505bdc85f7fb4067ebee474d5edf"
 
 [[files]]
+file = "config/openloader/data/modpack-extras/data/swplanets/loot_tables/chests/empire_chest.json"
+hash = "a2298a804fb91f525e48fb29c3d811f4e1471216ec708aaf8c293485f488fc1f"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/swplanets/loot_tables/chests/jawa_chest.json"
+hash = "ef776cec44a1c8cf655b35190245b2192df5669ff270183031115ecadc93caa2"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/swplanets/recipes/blaster.json"
+hash = "4c0029d330e9016af507557401d28dc1a1e9e6a388b1b3af49eb444bf2d3c6f9"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/swplanets/recipes/blaster_upgrade/blaster_to_zoom.json"
+hash = "4c0029d330e9016af507557401d28dc1a1e9e6a388b1b3af49eb444bf2d3c6f9"
+
+[[files]]
 file = "config/openloader/data/modpack-extras/pack.mcmeta"
 hash = "6f674fdc5e5d360863c9654fffed99fedcb5d8d54a1a9ffd760696270cd74435"
 
