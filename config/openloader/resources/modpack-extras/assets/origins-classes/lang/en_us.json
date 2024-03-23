@@ -1,6 +1,3 @@
 {
-    "origin.origins-classes.cook.description": "There is no one better to prepare your food than a Cook.\n\n§cWARNING: §nGood Meals§r§c is nowhere near as good as it appears; ask for details.",
-
-    "item.minecraft.turtle_helmet": "Turtle Shellmet",
-    "subtitles.item.armor.equip_turtle": "Turtle Shellmet thunks"
+    "origin.origins-classes.cook.description": "There is no one better to prepare your food than a Cook.\n\n§cWARNING: §nGood Meals§r§c is nowhere near as good as it appears; ask for details."
 }

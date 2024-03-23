@@ -216,8 +216,12 @@ hash = "43048ba28ec86e5834411fbe70d8c414ec41a9393cd9c0a4662bed95804421ce"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/modpack-extras/assets/minecraft/lang/en_us.json"
+hash = "c46435585bbc060645de4beceb481f58a4450efc94d15138899f92ebd4a15cca"
+
+[[files]]
 file = "config/openloader/resources/modpack-extras/assets/origins-classes/lang/en_us.json"
-hash = "e900b19cc880e01d8e870d6d68d48fab37c22bedb169fb3f6e798c485e921d6d"
+hash = "89c733d45636da5bbd32ab62cd88e07b1ed9312ffa0916a355ac57c005ec98d0"
 
 [[files]]
 file = "config/openloader/resources/modpack-extras/pack.mcmeta"
@@ -1127,6 +1131,10 @@ metafile = true
 file = "mods/worldgen/yung/yungs-extras.pw.toml"
 hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
+
+[[files]]
+file = "options.txt.new"
+hash = "cb188c2e6f6566801e5617a92c8e08e245b46d51d3bedcad3be82b1ae0273d99"
 
 [[files]]
 file = "resourcepacks/icons-advertisement-removal.pw.toml"
