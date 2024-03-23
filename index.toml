@@ -1137,10 +1137,6 @@ hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
 
 [[files]]
-file = "options.txt.new"
-hash = "cb188c2e6f6566801e5617a92c8e08e245b46d51d3bedcad3be82b1ae0273d99"
-
-[[files]]
 file = "resourcepacks/icons-advertisement-removal.pw.toml"
 hash = "52ff33e4ca08eebe58ba8ae2c14e63668ada8f5eadd93e5aaac68b4d3ec3a176"
 metafile = true
