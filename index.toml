@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/origins/extra-origins.pw.toml"
-hash = "67967605a5a1603de48fd6613469fb86f6beb30a2702b2aca64210c57d57573a"
+hash = "faa94a16d5840a30b664e4ee013941810aa0cd910daaf107ee82a1ac61131f1e"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/every-compat.pw.toml"
-hash = "ce5b93a0649ad3ec4ea2bb0f081d213c58a362aeb0f96465d70b71f5cc76ed23"
+hash = "7d075601b882b1f4f91cf0827999ecff660d0138de7fcf9ccd8ec71c8fe7fbe4"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/modernfix.pw.toml"
-hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -935,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/utility/emi/emi.pw.toml"
-hash = "f4d6be89784789e57a2f5816253b4ae4db67ed40b00d29a6abfa94770d70e68f"
+hash = "5a62ab560d4583867c9ecaa9998354715399bb84727125f43298146d08b38680"
 metafile = true
 
 [[files]]
