@@ -281,6 +281,10 @@ file = "config/spiceoffabric.hjson"
 hash = "c75cfd9e29ea19e56703f5ee2b8e0e3ee72db23decbf7361c743a2e47bcc692d"
 
 [[files]]
+file = "config/tconstruct-common.toml"
+hash = "18068e25c49c77b857c4b71bb7a6837c7fef1965873c4f51cc19077c2ba43bd9"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "c11459e268b5944ce007c16184c5f8b0acc14df137cb029c11432b700e320412"
 
