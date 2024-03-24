@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/data/stargate-datapack.pw.toml"
-hash = "43048ba28ec86e5834411fbe70d8c414ec41a9393cd9c0a4662bed95804421ce"
+hash = "c3d65a4afb5c9f2ea6a5df1f134d2f77dc1ddfe123eb454aba2a41434f398bff"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ hash = "abf300d01cc7d375a7d9ee5052137113862bcd9f5c8f905412b8fe09bb0eeb1d"
 
 [[files]]
 file = "config/openloader/resources/stargate-required-resources.pw.toml"
-hash = "0904870f7ae9d3dbf911c83b83de2bd56a044dd246dd9cb39ec83599e84e8e8f"
+hash = "7484a4a83ada7c4b0f0a4c673a52d704d7d5b3f0f9c70e193226e0bc946c7a36"
 metafile = true
 
 [[files]]
@@ -1213,5 +1213,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/stargate-hd-resources.pw.toml"
-hash = "049f150f75b2c53c93888d830aad5e187985a74ddb860d0916520e8e74d6500f"
+hash = "68aecbcafd257f73884dd43806f99ebc6c996d73ccc7deb8fe6ec5100203fc90"
 metafile = true
