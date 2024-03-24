@@ -118,6 +118,10 @@ file = "config/openloader/data/origins-changes/data/extraorigins/origins/floran.
 hash = "35b56480d67bc0f91b33cb564097f7a9514b71c4bcf2d34b7b1e0cfaa2000c16"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/intergalactic/powers/hotv_i.json"
+hash = "e089184e389c3759e87f2ced869441ab1762106616f1fee451794bb96257c64a"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/medievalorigins/origins/arachnae.json"
 hash = "2469720f8c8f98a413f8c81a2490c995a641e9b732298bb1ed6d728b8f261931"
 
@@ -186,8 +190,16 @@ file = "config/openloader/data/origins-changes/data/moborigins/origins/witch.jso
 hash = "69386aab99e90bac759ee7e8f12742388de8f66b5eff0f562aa2eeef8357c9ef"
 
 [[files]]
+file = "config/openloader/data/origins-changes/data/origins-classes/origins/merchant.json"
+hash = "ab309377b77830eba2ab7610956a3f2aec84410f525aca60df64d34b7bd31e3b"
+
+[[files]]
 file = "config/openloader/data/origins-changes/data/origins-classes/origins/rogue.json"
 hash = "f37935a17c103eeefee00e272da7f97d8ac92168be26f781a1537cf4bf798745"
+
+[[files]]
+file = "config/openloader/data/origins-changes/data/origins/powers/nether_spawn.json"
+hash = "adb32e4d0ebdd8a2bf05ce4a9a8dd1c67425170be4e8e8f0886843a0b28e2744"
 
 [[files]]
 file = "config/openloader/data/origins-changes/data/origins/tags/items/ignore_diet.json"
@@ -246,6 +258,10 @@ hash = "36e0949e759ce8b31c1e7aa11a63018907567ed800abe7ccd0cdacc9da431277"
 [[files]]
 file = "config/openloader/resources/modpack-extras/assets/origins-classes/lang/en_us.json"
 hash = "89c733d45636da5bbd32ab62cd88e07b1ed9312ffa0916a355ac57c005ec98d0"
+
+[[files]]
+file = "config/openloader/resources/modpack-extras/assets/origins_minus/lang/en_us.json"
+hash = "30fd85fe11c723eabed5b5b4305c35bb9a90b1afbaa0b3e5b3cf5a1cd10595b4"
 
 [[files]]
 file = "config/openloader/resources/modpack-extras/pack.mcmeta"

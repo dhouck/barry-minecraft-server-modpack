@@ -1,0 +1,16 @@
+{
+	"type": "origins:stacking_status_effect",
+
+	"name": "Good Deal",
+	"description": "You know how to get a good deal; villagers will give you discounts, and occasionally gifts.",
+
+	"min_stacks": 1,
+	"max_stacks": 1,
+	"duration_per_stack": 1000,
+	"effect": {
+		"effect": "minecraft:hero_of_the_village",
+		"is_ambient": true,
+		"show_particles": false,
+		"show_icon": false
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "intergalactic:hotv_i",
+    "origins-classes:rare_wandering_loot"
+  ],
+  "icon": "minecraft:emerald",
+  "order": 8,
+  "impact": 0,
+  "loading_priority": 100
+}
