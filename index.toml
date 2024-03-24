@@ -277,10 +277,6 @@ hash = "7484a4a83ada7c4b0f0a4c673a52d704d7d5b3f0f9c70e193226e0bc946c7a36"
 metafile = true
 
 [[files]]
-file = "config/smoothswapping.json"
-hash = "459cd6e5d53eff15f6504d28dba55e2f83b93d56783ccb0236b66fd5480f40e4"
-
-[[files]]
 file = "config/spiceoffabric.hjson"
 hash = "c75cfd9e29ea19e56703f5ee2b8e0e3ee72db23decbf7361c743a2e47bcc692d"
 
@@ -299,6 +295,10 @@ hash = "15e2ab93813ac47669bd6b86d2555e15c86a6b2055e18a1bd3c20d78e5971b7d"
 [[files]]
 file = "configureddefaults/config/minihud.json"
 hash = "abe75f9cb628cc57ecb0cd4f9fe98ad53be677ed3a70abb94c90142ac943e9e7"
+
+[[files]]
+file = "configureddefaults/config/smoothswapping.json"
+hash = "459cd6e5d53eff15f6504d28dba55e2f83b93d56783ccb0236b66fd5480f40e4"
 
 [[files]]
 file = "configureddefaults/journeymap/config/5.9/journeymap.fullmap.config"
