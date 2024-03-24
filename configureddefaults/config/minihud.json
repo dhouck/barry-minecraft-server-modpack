@@ -1,0 +1,13 @@
+{
+  "Generic": {
+    "beeTooltips": true,
+    "honeyTooltips": true,
+    "mapPreview": true,
+    "shulkerBoxPreview": true
+  },
+  "InfoTypeToggles": {
+    "infoBiome": true,
+    "infoCoordinatesScaled": true,
+    "infoWorldTimeFormatted": true
+  }
+}
