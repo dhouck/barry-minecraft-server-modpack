@@ -1,0 +1,3 @@
+#The time of day that hammocks can be used.
+#Allowed Values: NONE, DAY, NIGHT, DAY_OR_NIGHT
+hammockUse = "NIGHT"
