@@ -1,0 +1,11 @@
+{
+	"enchantment_lore.create:potato_recovery.description": "Potato Canon projectiles have a chance to be reused",
+	"enchantment_lore.create:capacity.description": "Increases Backtank air capacity",
+
+	"enchantment_lore.farmersdelight:backstabbing.description": "Amplifies damage when striking a target from behind",
+
+	"enchantment_lore.origins:water_protection.description": "Delays damage for origins that get damaged in water.\n\nThis should be irrelevant because all such origins were disabled.",
+	"enchantment_lore.medievalorigins:featherweight.description": "With this enchantment applied to heavy armor, it can be worn by origins that can only wear light armor, like the Arachnae and Elvin origins",
+	"enchantment_lore.moborigins:ground_spikes.description": "Prevents certain origins from slipping on land",
+	"enchantment_lore.moborigins:heat_protection.description": "Protects certain origins from overheating"
+}

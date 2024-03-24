@@ -1,5 +1,31 @@
 {
 	"item.minecraft.turtle_helmet": "Turtle Shellmet",
-	"subtitles.item.armor.equip_turtle": "Turtle Shellmet thunks"
+	"subtitles.item.armor.equip_turtle": "Turtle Shellmet thunks",
+
+	"effect.farmersdelight.nourishment.description": "Prevents you from losing hunger from anything except taking damage/natural regeneration",
+	"effect.farmersdelight.comfort.description": "Your health regenerates as if you were at full hunger, regardless of how much hunger you have",
+
+	"effect.farmersrespite.caffeinated.description": "Increases speed and attack damage, and resets insomnia (phantom) timer",
+
+	"effect.origins-classes.stealth": "Stealth",
+	"effect.origins-classes.stealth.description": "Quieter footsteps and more damage on one attack.  After one attack the effect is removed.",
+
+	"effect.tconstruct.carry.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.bleeding.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.magnetic.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.repulsive.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.momentum.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.momentum_ranged.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.insatiable.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.insatiable_ranged.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.enderference.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.teleport_cooldown.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.fireball_cooldown.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.calcified.description": "[Unknown effect, from Tinker’s Construct]",
+	"effect.tconstruct.self_destructing.description": "[Unknown effect, from Tinker’s Construct]",
+
+	"effect.toomanyorigins.charged.description": "Move 20% faster",
+	"effect.toomanyorigins.zombifying.description": "[Should be unobtainable]",
+	"effect.toomanyorigins.end_fire.description": "Should damage entities but might be broken; should also be unobtainable"
 }
 

@@ -236,8 +236,12 @@ hash = "43048ba28ec86e5834411fbe70d8c414ec41a9393cd9c0a4662bed95804421ce"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/modpack-extras/assets/enchantment_lore/lang/en_us.json"
+hash = "598fbe9b2b8eaf6a05e5eb453f4bb3eb16a354fc6804c6013952fde79fa869ce"
+
+[[files]]
 file = "config/openloader/resources/modpack-extras/assets/minecraft/lang/en_us.json"
-hash = "c46435585bbc060645de4beceb481f58a4450efc94d15138899f92ebd4a15cca"
+hash = "36e0949e759ce8b31c1e7aa11a63018907567ed800abe7ccd0cdacc9da431277"
 
 [[files]]
 file = "config/openloader/resources/modpack-extras/assets/origins-classes/lang/en_us.json"
@@ -861,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/utility/client-display/detail-armor-bar.pw.toml"
 hash = "ad90f842982f0bb2b5bb2848fb49b97e198b587e8906b25d1e24df37895262f4"
+metafile = true
+
+[[files]]
+file = "mods/utility/client-display/enchantment-descriptions.pw.toml"
+hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
 metafile = true
 
 [[files]]
