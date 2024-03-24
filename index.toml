@@ -314,7 +314,7 @@ hash = "6bb8b6012128b4c6c976a32257d35a0fbf1cfaa4dd252f743c72ca23116b27b4"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "1da1f0d17e055c379328a571d955e64dbf564198fa68ca7d6fd7203d9c6be4ee"
+hash = "a7668d350c2ce6f0e67ecaba7de9705ed155cfefb1ae1cb3caab3546b2bfaecc"
 
 [[files]]
 file = "mods/ambiance/ambientsounds.pw.toml"
