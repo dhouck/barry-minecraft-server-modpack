@@ -1,13 +1,15 @@
 {
+    "features": {
+        "enabled": [
+            "minecraft:bundle"
+        ]
+    },
     "pack": {
         "description": "Enable bundles",
         "pack_format": 15,
         "supported_formats": {
             "min_inclusive": 10,
             "max_inclusive": 26
-        },
-        "features": {
-            "enabled": "bundles"
         }
     }
 }

@@ -38,7 +38,7 @@ hash = "779dcfbbd62a8880e70c3b4ff699807607523c76d996ae5c700718d338f666d4"
 
 [[files]]
 file = "config/openloader/data/bundles/pack.mcmeta"
-hash = "c9858fea87a744b705c8dde3d296b62d430f3c1f4b57f763ae4b19891a432139"
+hash = "a3a3e99e390b3d5eba172857137e044cd1290b35b0c2252562a8dc6c250d9e20"
 
 [[files]]
 file = "config/openloader/data/bundles/pack.png"
