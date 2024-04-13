@@ -1,6 +1,7 @@
 name = "Farmer's Respite (Fabric)"
 filename = "Farmersrespite-Fabric-2.3.4.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

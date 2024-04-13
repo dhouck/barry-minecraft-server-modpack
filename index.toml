@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambiance/sound-physics-remastered.pw.toml"
-hash = "4ca08bbb860d5b4369aa024f20848b058f18f8ba43e7a692754c7050c94a018d"
+hash = "e40bb768cf885b1813c43735b1a7927c9f90210df4423d1c1789df95260104b7"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/farmers-delight/farmers-respite-fabric.pw.toml"
-hash = "3b09bb825c6293c1c1fb2addd2c88e03af6cb4f0cc72040cd8696a51a3ef8f5f"
+hash = "87c298b3cbf62ae52adb568e4ee4aa67c47b718d2c9b895b5d56fad3bc112b42"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/origins/medieval-origins-revival.pw.toml"
-hash = "f0e751ba2f800c7251b66414a42f5a98b2037461da1049b67239003b437f29ad"
+hash = "72e6de40109fe4e4d39de459e7afb3439ddba1edeac21f991f6c5637e24dcb7e"
 metafile = true
 
 [[files]]
