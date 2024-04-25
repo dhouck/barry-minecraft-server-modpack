@@ -74,6 +74,58 @@ file = "config/openloader/data/mod-compat/pack.mcmeta"
 hash = "007790a0d824bc2155883064588025c48111cdd47a16af5ea9366f47223ec8cf"
 
 [[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/biodiesel.json"
+hash = "7ca6a25f27cc4e13e5f195c7ae409e61802de27b4d9cf918e37caed7b5bd115a"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/biofuel.json"
+hash = "70af8a2ce6031fc9c2b9a8dd138a383477df9b9ff87c8ba493cc8c798c3062a9"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/compat/thermal/heavy_oil.json"
+hash = "64394588ab79d9ce4cea92f9e2c7b5c19057cf4afa5bf57699814a38dc895bbc"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/compat/thermal/light_oil.json"
+hash = "90c2520f1de318db8870e5628e0054a66d82c40532aeca61f460b29e3f635a51"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/compat/thermal/refined_fuel.json"
+hash = "4ae5317c517f858975b06b2373f2ac52343558eb28e2320ac5149e64144a86e2"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/compat/thermal/tree_oil.json"
+hash = "f41d4028d71164c58c3039c2de6c742400bc96f4e016b03afb3f47bcaa6362cd"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/creosote.json"
+hash = "45b2257469a80705030e251888f370ee9da2de745ef22cd257cbee812349519b"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/crude_oil.json"
+hash = "4b965c023d661aa46351dab32bd9e7da07136a1531912dd853014e2293d215cc"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/diesel.json"
+hash = "085a7d62522af980ad6032c1a8d6a34d1bd20b2906a6cbc05a09de37ce343de9"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/ethanol.json"
+hash = "d349749133e8f2ecef686e0816e890b9eba036f7aaf2dbb2d6249d47d31cc6b1"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/gasoline.json"
+hash = "8e7b83c81137edb5f32b4cce1f8f40de34f9f898d91d39aa7ba06600b0fd6593"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/lava.json"
+hash = "26c00b4a4814be605a9c208d911164254401a4fe7e1697e746775479a76e58c0"
+
+[[files]]
+file = "config/openloader/data/modpack-extras/data/createaddition/recipes/liquid_burning/plantoil.json"
+hash = "15d4a1fa14c998ef974e795b9236ec511cb737c04040b86c11cf531e8d53f17d"
+
+[[files]]
 file = "config/openloader/data/modpack-extras/data/intergalactic/functions/load.mcfunction"
 hash = "3bcb70b09a9f41bfc3ca001e0d2105a1137b128a56f273b3fc0bfb2a1f7f9847"
 
