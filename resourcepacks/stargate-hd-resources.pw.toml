@@ -2,6 +2,6 @@ name = "stargate-hd-resources"
 filename = "Stargate.HD.Addons.zip"
 
 [download]
-url = "https://github.com/dhouck/Stargate-Datapack/releases/download/v5.0.0b6/Stargate.HD.Addons.zip"
+url = "https://github.com/dhouck/Stargate-Datapack/releases/download/v5.0.0b7/Stargate.HD.Addons.zip"
 hash-format = "sha256"
-hash = "a52a8ed8e9a85070d6769a6cf20d8c5b7b363dbf6a88757dbb372a525ced96ef"
+hash = "697ada105f0efd30a33fe1716757f34cb83230a680a5dd82b85e2191ee784faf"
