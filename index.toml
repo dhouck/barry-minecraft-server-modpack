@@ -54,10 +54,6 @@ hash = "d275e67adb29ebd88a0f77f4a809e64b4f4f37f093e33515465786f71425df55"
 metafile = true
 
 [[files]]
-file = "config/openloader/data/mod-compat/data/cookingforblockheads/recipes/heating_unit.json"
-hash = "fa377b692f69f76c5e05aafd90a711bce09371cc65d3416ca1f8b78a8a579d01"
-
-[[files]]
 file = "config/openloader/data/mod-compat/data/cookingforblockheads/recipes/spice_rack.json"
 hash = "96e0c847165b5bfc94f6b1c9fdeb9ce29b5c9bfd8a8385fbd45e70db1c8da1f4"
 
@@ -170,12 +166,8 @@ file = "config/openloader/data/modpack-extras/data/swplanets/loot_tables/chests/
 hash = "ef776cec44a1c8cf655b35190245b2192df5669ff270183031115ecadc93caa2"
 
 [[files]]
-file = "config/openloader/data/modpack-extras/data/swplanets/recipes/blaster.json"
-hash = "4c0029d330e9016af507557401d28dc1a1e9e6a388b1b3af49eb444bf2d3c6f9"
-
-[[files]]
-file = "config/openloader/data/modpack-extras/data/swplanets/recipes/blaster_upgrade/blaster_to_zoom.json"
-hash = "4c0029d330e9016af507557401d28dc1a1e9e6a388b1b3af49eb444bf2d3c6f9"
+file = "config/openloader/data/modpack-extras/data/trinkets/tags/items/chest/quiver.json"
+hash = "ea4e4bc50f4691c78694aa9168e9268037f0f6e8cc2fdc02c64da3ac41c4b67a"
 
 [[files]]
 file = "config/openloader/data/modpack-extras/pack.mcmeta"
@@ -1297,3 +1289,7 @@ metafile = true
 [[files]]
 file = "scripts/dhd_recipes.zs"
 hash = "1e68d6ee78b761773d92e39c3172f8997ea63190f7dc6c3a7b0b9ffcdb42c320"
+
+[[files]]
+file = "scripts/remove_recipes.zs"
+hash = "05f9498134ed78a5dea5845fd0f461c532ec2f8be0496d0804a65d71e0be84c9"
