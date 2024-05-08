@@ -885,8 +885,18 @@ hash = "04ef8a9d13b67158ae7644c9059591f45ae79e647797b0c0706c0e2f71c23481"
 metafile = true
 
 [[files]]
+file = "mods/server-config/crafttweaker.pw.toml"
+hash = "15c7b55ba4917984c3a4c1ec758b33f712bdf1e1121b60b2fb0850a5c85b4c22"
+metafile = true
+
+[[files]]
 file = "mods/server-config/creeper-firework.pw.toml"
 hash = "d19f8a815b5348a39e8ea31b32959dfb7945c12cde6cba9907b6e3ffc5bd6e20"
+metafile = true
+
+[[files]]
+file = "mods/server-config/faux-custom-entity-data.pw.toml"
+hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
 metafile = true
 
 [[files]]
@@ -1283,3 +1293,7 @@ metafile = true
 file = "resourcepacks/stargate-hd-resources.pw.toml"
 hash = "cc031d6042730437d1fb71baa64ae47a5ca854a4fdb2765fea963f73e5656dd0"
 metafile = true
+
+[[files]]
+file = "scripts/dhd_recipes.zs"
+hash = "1e68d6ee78b761773d92e39c3172f8997ea63190f7dc6c3a7b0b9ffcdb42c320"
