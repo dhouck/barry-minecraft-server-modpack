@@ -397,11 +397,6 @@ hash = "ade2f8bdded0cccc3dad421ca8bc833f88afa284b341bd286d22621091a57453"
 metafile = true
 
 [[files]]
-file = "mods/ambiance/sound-physics-remastered.pw.toml"
-hash = "e40bb768cf885b1813c43735b1a7927c9f90210df4423d1c1789df95260104b7"
-metafile = true
-
-[[files]]
 file = "mods/compat/create-origins.pw.toml"
 hash = "98b41adf822f00af6c0caef0f47efc112003bcc1784fd58b7a25c42735f32a59"
 metafile = true
