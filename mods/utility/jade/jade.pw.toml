@@ -1,11 +1,7 @@
 name = "Jade 🔍"
 filename = "Jade-1.20-fabric-11.8.0.jar"
 side = "both"
-
-[option]
-optional = true
-default = true
-description = "Tells you about blocks/entities you look at, like WAILA or That One Probe"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/CciLEAMK/Jade-1.20-fabric-11.8.0.jar"
@@ -16,3 +12,8 @@ hash = "49b63e1c3305d946f45a50134f63698d8c7b0ec0"
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "CciLEAMK"
+
+[option]
+optional = true
+description = "Tells you about blocks/entities you look at, like WAILA or That One Probe"
+default = true

@@ -1,18 +1,18 @@
 name = "Where Is It"
-filename = "whereisit-2.3.4+1.20.1.jar"
+filename = "whereisit-2.4.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FCTyEqkn/versions/o551CUUa/whereisit-2.3.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/FCTyEqkn/versions/mCVOdFBV/whereisit-2.4.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "cc72a1cf0127606e5a56669bb88f29105ba5e139"
-
-[option]
-optional = true
-default = true
-description = "Press Y to search nearby storage chests/drawers/barrels"
+hash = "649490b1ba673f5a1b8836128be5a2cb7ca0b770"
 
 [update]
 [update.modrinth]
 mod-id = "FCTyEqkn"
-version = "o551CUUa"
+version = "mCVOdFBV"
+
+[option]
+optional = true
+description = "Press Y to search nearby storage chests/drawers/barrels"
+default = true
