@@ -897,6 +897,11 @@ hash = "d4d388f59090614ace6edb787f7495328a3fd1d80f229f9ed8891f88befd0ef5"
 metafile = true
 
 [[files]]
+file = "mods/server-config/stackdeobf.pw.toml"
+hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
+metafile = true
+
+[[files]]
 file = "mods/utility/betterf3.pw.toml"
 hash = "1cb2e392a2a0af9525354facd398adb95a5259f7d9492570f7e657569d97abad"
 metafile = true
