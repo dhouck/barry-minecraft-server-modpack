@@ -832,6 +832,11 @@ hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
+file = "mods/performance/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
 file = "mods/performance/dynamic-fps.pw.toml"
 hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
@@ -862,6 +867,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/performance/mc-249136-fix.pw.toml"
+hash = "4caef00d584b5a6394b9b09a373f755bf62e3b3e7fc44da94883c51fc087d77d"
+metafile = true
+
+[[files]]
 file = "mods/performance/modernfix.pw.toml"
 hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
@@ -874,6 +884,11 @@ metafile = true
 [[files]]
 file = "mods/performance/sodium.pw.toml"
 hash = "04ef8a9d13b67158ae7644c9059591f45ae79e647797b0c0706c0e2f71c23481"
+metafile = true
+
+[[files]]
+file = "mods/performance/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
