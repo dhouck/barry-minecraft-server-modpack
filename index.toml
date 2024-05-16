@@ -397,6 +397,11 @@ hash = "ade2f8bdded0cccc3dad421ca8bc833f88afa284b341bd286d22621091a57453"
 metafile = true
 
 [[files]]
+file = "mods/compat/create-origins.pw.toml"
+hash = "98b41adf822f00af6c0caef0f47efc112003bcc1784fd58b7a25c42735f32a59"
+metafile = true
+
+[[files]]
 file = "mods/compat/ctov-beautify-compat.pw.toml"
 hash = "a1c94db18b2c206b3573e5614109ce23409ce2e667d6671dcaf82bef54124eed"
 metafile = true
@@ -428,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/compat/slice-and-dice.pw.toml"
-hash = "b4facc77228ebf34fb6eb3436828907026c7a041526791b847d2bff8d25eb5e2"
+hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
 metafile = true
 
 [[files]]
@@ -448,12 +453,12 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/copycats.pw.toml"
-hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
+hash = "2ce30db7df879d90994260483d4d1294a9a574f92507b0383325ecbda5bcf05d"
 metafile = true
 
 [[files]]
 file = "mods/content/create/create-deco.pw.toml"
-hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
 metafile = true
 
 [[files]]
@@ -463,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-fabric.pw.toml"
-hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
 
 [[files]]
@@ -473,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-steam-n-rails.pw.toml"
-hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
 metafile = true
 
 [[files]]
@@ -523,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/hephaestus.pw.toml"
-hash = "62eeeb1733f37ec138fc076c20d39a12c3d5020b4b67147a523d2fad118da9ff"
+hash = "b633daed2cf3a7985ed6602174a768932bff07fd8f4d700517ff0906726e100a"
 metafile = true
 
 [[files]]
