@@ -62,6 +62,14 @@ file = "config/openloader/data/mod-compat/data/createaddition/recipes/mixing/ele
 hash = "cad2532b5749148750ca89fa77a3e05a4913357151ef5ffe3c06a812e480796a"
 
 [[files]]
+file = "config/openloader/data/mod-compat/data/intergalactic/recipes/additions_zinc_plate_to_deco.json"
+hash = "cc6abb9dfffeb5540e4bb1bfe5278d3ab76d610b099da9a18374b373c9459048"
+
+[[files]]
+file = "config/openloader/data/mod-compat/data/intergalactic/recipes/deco_zinc_plate_to_additions.json"
+hash = "20ed017fb3e90fbb2987bde31c0f32c2283482f52d43fe4a99d26b97a78a7410"
+
+[[files]]
 file = "config/openloader/data/mod-compat/data/tconstruct/recipes/smeltery/alloys/molten_electrum.json"
 hash = "21da023733c0789873ddb937d4bc8c1e2dc966bb9f526006b7baa2945ba0ea4b"
 
