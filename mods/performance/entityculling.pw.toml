@@ -11,3 +11,8 @@ hash = "8e4be2bb9703deddb3d3d212c812cdc1f9de072b"
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "BDwHAdWc"
+
+[option]
+optional=true
+default=false
+description="Increase FPS by not rendering some entities.  Usually only skips ones you can't see, but also makes some Botania stuff invisible"
