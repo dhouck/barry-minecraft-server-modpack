@@ -10,7 +10,7 @@ hash = "da51936b92e52bdd11d269df16e7fec0bc822e67476802cc7e5b73f6c6e7973d"
 
 [[files]]
 file = "config/create_power_loader-server.toml"
-hash = "ce3667d958bcc6308c17b98c03be4b92608b6b149c84a099d50b4495bb989d70"
+hash = "8f30b72bb3a04654de37e924487ce9016370566a2301b10a932c51b62dfa3cbf"
 
 [[files]]
 file = "config/creeper_firework.json5"

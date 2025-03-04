@@ -21,7 +21,7 @@
 	stressImpact = 16.0
 	#.
 	#Whether the chunk loader functions on the ground when given rotational power
-	enableStatic = false
+	enableStatic = true
 	#.
 	#Chunk loading radius on contraptions. 1 = 1 chunk, 2 = 9 chunks. Contraptions require a minimum radius of 2 for reliable loading
 	#Range: 1 ~ 10
@@ -66,7 +66,7 @@
 	stressImpact = 16.0
 	#.
 	#Whether the chunk loader functions on the ground when given rotational power
-	enableStatic = false
+	enableStatic = true
 	#.
 	#Chunk loading radius on contraptions. 1 = 1 chunk, 2 = 9 chunks. Contraptions require a minimum radius of 2 for reliable loading
 	#Range: 1 ~ 10
@@ -81,7 +81,7 @@
 	rangeOnStation = 2
 	#.
 	#Whether the chunk loader functions on contraptions other than trains. WARNING: does not update contraptions that are currently unloaded
-	enableContraption = false
+	enableContraption = true
 	#.
 	#Whether the chunk loader functions on trains
 	enableTrain = true
